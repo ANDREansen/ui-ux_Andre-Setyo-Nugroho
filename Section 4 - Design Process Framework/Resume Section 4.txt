@@ -1,0 +1,90 @@
+Outline -> Pengenalan desain framework , Apa saja yang harus dikjetahui dari desain framework , Framework 101( funfact framework), Pentingnya Framework, Variasi dari framework, cara memilih framwrok yang tepat dari variasi, chalenge memilih framework.
+
+Hubungan kerangka kerja dengan pola berfikir kita ; hal yang mempengaruhi 
+1. Mempunyai informasi baru -> otomatis menciptakan ide baru
+2. ada cocoklogi terhadap thingkking proses
+
+Hubungan pola berfikir dengan ui ux : 
+1. Didalam ui ux bisa memaping problem yg dihadapi user
+2. Jadi bisa solve the problem 
+
+Framework 101 (funfact desain framework) ;
+Ada 7 funfact ttg desain framework :
+1. Mmebuat step ketika menemukan sebuah problem ,kemudian membuat langkah langkah untuk menyelesaikan problem tersebut
+2. harus paham goals, dari setiap plan yang dibikin (tujuan)
+3. Membuat 1 konsep framework tapi harus dimaksimalkan dengan baik,
+4. Mencapai sebuah kesepakatan
+5. Sangat membantu designer dalam manajemen waktu dan usaha yang dilakukan untuk menyelesaikan problematika
+6. Minimize misunderstanding, biasanya terjadi kepada orang orang yang baru mencoba framework , misal udah tau cara kerja pasti tidak terjadi missunderstanding
+7. terakhir, bisa gerak semua.
+
+Usability framework 101;
+Setelah menemukan problem dan mengetahui solusinya , tetapi solusinya belum bisa solving probelm, kemudian diukur seberapa berhasilkan bisa menyelesaikan problem dari user, parameternya apa aja ? 
+1. Sukses rate -> sukses rate yang ditawarkan seberapa gede sih ? usability itu apa?
+
+Pentingnya framwork ?
+1. Dari membuat step, maka bisa runtut langkahnya  sehingga bisa split atau memisah bagian bagian yang penting
+2. mendapatkan sebuah penghargaan dari product yang ditawarkan kita
+3. jika menggunakan framework melatih kekereativias an kita -> bisa bentuk sebuah ide atau diskusi 
+
+Framework apa saja yg udah di provide ;
+1. Understanding 5 elements of ux design -> sekelas microsoft, -> urutan framework : strategy -> scope ->structure -> skeleton -> surface ;
+- Strategy : harus memahami kebutuhan user bersama tujuan bisnis
+- Scope : mendifine apa yang kita bikin , (memetakan) problematika setiap user
+- Structure : proses untuk problem statement (media untuk menuju solusi) di orgnize nanti itu desain nya bakal kayak gimana misal problem statement nya seperti ini,
+- Skeleton : teknis solusi, dibikin seperti apa? di petakan seperti apa(memetakan problem) solusi design nya bakal kayak gimana -> lebih ke teknis kyk: layoutingnya kyk gimana , nata nya gimana
+   - Perbedaan struvture dengan skeleton : Structure itu lewbih ngeprovide solusinya bakal ditaruh kesolusinya kita seperti apa (outlinenya bakal kek gimana), kalau skeleton : lebih ke teknis (coba ah aku bikin desain yang kayak gini, layoutingnya bakal aku taruh seperti ini)
+- Surface : outputnya (hasilnya)
+
+2. UCD (user centered design)
+lebih ke playing user center , sama sama sifatnya ke user (u5element) ;
+- Fase nya : understanding context of use -> specify user requirements -> design solutions -> evaluate againts requirements    (hampir mirip u5ement)
+- Understand : memahami pengalaman user ketika berinteraksi dengan product
+- Specify : menspesifikan apa yang user butuhkan 
+
+3. The infamous Design Thinking
+Lebih banyak dipakai ? kenapa -> karena dari setiap fase empthize -> define -> ideate -> prototype -> test -> implement "RUNTUT"
+Sifatnya design thinking itu dinamis (kalau di UCD harus urut terus pas diakhir malah balik ke sebelumnya dan lain lain )
+ada sedikit perbedaan di goals (tujuan) 
+- Empathize : memahami apa yang dibutuhkan user
+- Define : mendefinisikan problem 
+- Ideate : mengerti apa permasalahannya secara spesifik
+- Prototyoping : membuat protoype
+- Test : mengetst prototype
+- Implement : mengimplementasikan
+
+4. Double Diamond 
+Discover (usernya kek gimana)-> Define (userknya kek gimana) -> Develope -> deliver (prototype kita)
+- Setiap framework nya berinteraksi -> never ending progress selama requirment kebutuhan masih ada
+- Discover -> mengidentifikasikan kebutuhan user
+
+5. Lean UX
+Lebih ringkes daripada framwork yang lain; karena merupakan framework yang mintanya cepet tapi tidak mengurangi kualitas develop ,lebih fokus ke setelah product jadi next time nya bakal ngapain 
+Fase : Think -> Make -> Check
+Lebih cocok untuk orang yang memakai agile 
+Lebih ke kejar tayang 
+- Think : riset user problem 
+- Make : make a design , bikin prototype product MVP
+- Check : Lebih ke usability atau testing
+
+6. Hook model 
+merupakan framework baru kek lean ux; lebih ke pskiologi usernya
+Fase : Trigger -> Action -> Variable Reward -> Investment 
++ Psikologinya dimana ? saat user berinteraksi dengan product apa yang mereka rasakan, kenapa merasa kayak gitu, ketika berinteraksi product mereka triger something ntah seneng atau sedih susah , frustasi dll; jadi lebih ke observing ke user
+lebih fokus ke usability (testing)
+- Trigger : test ke user dan dilihat perilaku dari user ketika berinteraksi dengan product
+- Action
+- Variable reward : hasil dari action itu sendiri 
+- Invesment : interaksi dari prodcut nya apa aja si yang bakal kita improve (kita memasukan value apa aja yang bakal impact ke user nantinya)
+
+
+TIPS memilih framework: 
+1. Product apa si yang bakal dibikin
+2. Pakai framwork yang sekiranya familiar dengan diri kita dan menyesuaikan kebuthan kita
+3. Trial and error framework
+4. Bersahabat dengan proses (baik mulai dari define probelm hingga test dll)
+
+
+
+Gimana kalau switch framework?
+gapapa, tapi apakah goals nya bisa sesuai yang diharapkan ? bisa aja asal masih ontrack ga asal switch
