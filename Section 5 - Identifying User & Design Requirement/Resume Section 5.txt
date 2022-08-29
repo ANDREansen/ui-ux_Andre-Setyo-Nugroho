@@ -1,0 +1,66 @@
+------------ USER PERSONA --------------
+
+Outline : 1. Pentingnya user persona , 2. Jenis 3. Riset , 4. Contoh user persona, 5. Interview
+
+1. Pentingnya user persona 
+- Berguna untuk memahami user : mengambarkan secara nyata ; apa yang  ekspektasi mereka, apa kebutuhan mereka, dan solusi masalah yang dihadapi
+- Membantu mengambil keputusan : Dengan mengetahui gambaran user, bisa mengambil keputusan yang tepat
+- Mengambarkan hasil riset : tidak dibutuhkan ui ux designer saja , marketing contohnya.->siapa si penguna apilkasi kita, siapa si taker marketing
+- POV yang sama : dengan User persona yang sama dalam perusahaan memiliki acuan yang sama mengenai gambaran target (penghasialn sekian , top of mind seperti apa)
+
+2. Jenis jenis user persona 
+- Persona marketing : digunakan untuk mengetahui kebutuhan dan motivasi user terhadap produk. (perusahaan yang jenisnya menjual produk)
+- Persona interaktif : berhubungan langsung dengan perilaku penggunaan produk (user apple dan android jelas berbeda)
+
+3. Research user persona :
+- Riset kualitatis : Riset yang dilakukan pada dasar kualitas produk berupa ide/konsep, dilakukan sejumlah user skala kecil (10-20 orang) dengan metode wawancara dan
+ testi penggunaan produk. (lebih untuk mencari kenapa user pilih A atau B, lebih mencari kenapa dan hal apa yang memotivasi user)
+- Riset Kuantitatif : penelitian yang berdasarkan kuantitas untuk memberikan hipotesa, dilakukan sejumlah user dengan skala besar dengan metode survei dan log file 
+analysis/site traffic .(Kuantitas seberapa orang yang berhasil memahami aplikasi kita, sebelunya punya hipotesis = user bisa membeli dll contoh lain ada 100 user, 
+70 dari 100 orang bisa melakukan pembelanjaan sampai tuntas)
+
+4. Contoh user persona 
+- Contoh ada komponen : gamabr , quotes, nama, profesi, profil pribadi (pernikahan , pendidikan dll), Lokasi, motivasi, golas, dan teknologi, brand san aplikasi 
+yang dia pakai itu apa. 
+User persona sebagai acuan , user kita siapa si yang memakai aplikasi kita siapa ?
+
+5. Membuat user persona 
+- Header : terdiri dari nama fiktif, foto, dan kutipan dari user tersebut (contoh ada nama dan quotes dan nama)
+- Profil demografi : backfround personal seperti umur, gender, suku, pendidikan, dan group persona (umur, pekerjaan, keluarga, tempat tinggal)
+- Personal background : informasi yang lebih personal mirip profil demografi, bedanya yg sebelumnya ada lokasi kerja dll, (di contoh itu ibarat Bio)
+- Professional background : informasi pekerjaan user , pekerjaan sebagai apa ; ditampilin di profil demografi  
+- Lingkungan user : informasi tentang lingkungan dari user mulai dari lingkungan tempat dia tinggal sampai lingungakn dia bekerja (contoh misal dia tinggal dipedesaan,
+dan jika bekerja dia harus ke kota naik kendaraan umum pagi pagi -> mendesain plikasi yang tidak terang karena digunakan user pagi pagi)
+- Psikografis : motivasi user keinginan dan hal apa yang di hindari user ; contohnya personality (introvert lyal passive dll) Goals (dia pengen spend less time 
+booking travel, dia pengen menyempitkan pilihannya dengan cepat) ,Problem (terlalu banyak waktu untuk membooking dia terlalu sibuk, terlalu banyak website 
+dikunjungi tiap trip dan tidak terlalu paham teknologi , tidak suka prosesnya) Motivasi (harga, kenyamanan , kecepatan dll, mana yang paling banyak dipilih 
+dan dibutuhkan), 
+Prefered Channels (platform apa yang paling sering diguanakn seperti chrome , hp, email,iklan tradisional)
+- Tujuan : informasi ttg tujuan user dalam konteks masalah apa yang mau diselesaikan dengan menggunakan aplikasi kita (contoh mengurangai waktu booking dan memudahkan
+ dia memilih pilihan secara cepat)
+- Skenario User : paragraf mengenai sekenario user dari bagaimana dia menggunakan aplikasi yang dibuat
+
+6. Empathy Interview (tentang motivasi dan masalah dia)
+wawancara dengan melakukan empati kepada user untuk memudahkan kita memperoleh kebutuhan user, beberapa pertanyaan berguna untuk mengumpulkan informasi terkait user
+Seperti halnya wawancara bedanya, kita menjadi seperti user, apa yang dirasakan mereka dll, Tips;
+1. Tanyakan mengapa : meski mengetahui jawabanya, kenapa mereka melakukan hal tersebut, terkadanag jawaban mengejutkan dan percakapan dimulai satu pertanyaan harus 
+terus berlanjut selama perlu. (pak lagi pengen apa, lagi pen speda ->bukan berarti yg dia butuhkan sepeda, tanya lagi kenapa pen speda, saya pen naik sepeda dengan 
+anaknya, kenapa pen naik speda dengan anaknya ,ingin mengahbiskan waktunya bersama mengobrol anaknya ->solusinya bisa mengasih speda yang bsia bonceng dll) 
+2. Jngan tanya "Biasanya" : dengan bertanya "biasanya" user cenderung mengingat apa yang harus dia lakukan dan akan cenderung bias, lebih baik menanyakan langsung 
+ke spesific kejadian tertentu.
+3. Mengajak bercerita : dengan bercerita user akan lebih terbuka untuk mengungkapkan apa yang dipikirkan (bisa diawali dengan kita bercerita dulu, user akan merasa 
+nyaman dan percaya jika kita bercerita dulu)
+4. Cari ketidakonsistenan : terkadang apa yang dikatakan berbeda dengan yang dilakukan , olehkarena itu sering menyembunyikan wawancara yang menarik , 
+(ditanyakan terus menerus jangan sampai merasa terbebani, jadi bakal merasa tertutup) -> gimana cara kita mebngali ketidakkonsistenan
+5. Perhatikan hal hal kecil nonverbal : seperti posisi duduk , gesture, hingga menjadi insight yang menarik saat wawancara 
+6. jangan memberi sana untuk jawaban : jangan memberikan harapan atas apa yang ditanyakan (jangan ngasih klu jawaban seperti apa, jadi sebisa mungkin kita netral)
+7. Hindari pertanyaan "ya" atau "tidak" : dengan pertanyaan ya tidak akan langsung berhenti dan tidak menjelaskan apa yang dialaminya 
+8. Tanggapi penjelasan user dengan bijak : hindari memberikan pertanyaan tambahan ketika useer sedang menjelaskan apa yang dia alami (jangan baper, 
+jawaban apapun kita harus netral dan menanggapi dengan bijak)
+
+
+
+
+
+
+
