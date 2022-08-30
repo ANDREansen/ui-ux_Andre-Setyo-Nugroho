@@ -1,0 +1,51 @@
+REDIFING PROBEL "APA ITU UI UX DESUIGNER"
+
+- Apa itu UI UX 
+	-> UI : Tampilan visual dari sebuah aplikasi digital guna untuk menampilkan informasi dan sebagai medium dari action yang dilakukan user
+	-> UX : Pengalaman atau kesan seseorang ketika menggunakan atau berinteraksi dengan sebuah aplikasi
+	-> UI UX Design : Proses pembuatan suatu tampilan aplikasi atau website dengan tujuan untuk memudahkan pengguna ketika menggunakan aplikasi atau website
+   -> UI : Visual design (tampilan desaign) , Colors *warna design) , Graphic Designer (icon, ilustrasi) , Layout (tata letak ), Typhography (pemilihan font)
+   -> UX : Interaction design  (bagaimana antar screen transisinya), wireframe & prototype (ketika merancang->melakukan validasi di user, mencoba membuat prorotype kepada user) , Information Architct (Menentukan informasi yang paling penting kepada user berdasar prioritas), User research (bagaimana riset kepada user (kebiasaan, menggunakan aplikasi), Scenarios (berhubungan dengan user riset)
+
+- UI/UX Didunia kerja 
+   -> bekerja secara tim ; di dalam startup akan ada peran peran kecil spesifik untuk membantu sebuah apilkasi atau webiste 
+   -> TIM : 1) UX Writer : mengerjakan dan memilih kata kata yang tepat yang akan di tempatkan pada aplikasi atau website
+	    2) UI Designer : lebih fokus kepada tampilan dari aplikasi webiste 
+	    3) UX Enginer : Kerjanya lebih ke prototyping tapi sudah dalam bentuk HTML dan CSS ataupun sudah clickable 
+	    4) Interaction Designer : Lebih fokus kepada mengatur transisi dari satu screen ke screen lain , animasi seperti apa, button di pencet seperti apa
+	    5) UX Researcher : melakukan banyak riset , ngobrol kepada user, user testing, validasi user dll ; ada combine ui designer dan ux researcher.
+
+- Design Thinking  
+   -> 1) Empathize 2) Define 3) Ideate 4) Protoype 5) Test 
+	1) Empathize : Proses bagaimana menganalisa dan memahami perilaku user/ pengguna dalam aktivitas sehari hari ataupun kegiatan tertentu
+	2) Define : Proses bagaimana kita menganalisa data hasil proses empathize dan menemukan masalah utama dari user/pengguna (mengunakan merk a, browser B dll) -> menentukan masalah utama dari user
+	3) Ideate : Pembuatan solusi dari masalah yang sudah teridentifikasi dalam bentuk sebuah interface aplikasi datau website (sace berbelanja online : maslah ketemu, kemudian disolusikan) kek fitur
+	4) Prototype : proses dimana kita membuat varsi minimal yang bisa digunakan untuk user. Tujuanya untuk user tetsing
+	5) Test : proses mencoba solusi interface yang sudah dibuat kepada user dengan tujuan mendapatkan data dari solusi yang kita buat (dari protoytpe coba ke user apakah sudah menyelesaikan solusi dari permaslaahn yang ditemukan sebelumnya )
+
+-  Software yang digunakan 
+   -> Sokumentasi dan analisa : Google docs, Google Sheets 
+   -> Handover : Zeplin
+   -> Design & Prototyping : Skecth, Figma
+   -> Online Tetsing : Maze, hotjar 
+
+- Basic Rule UI/UX
+   1) Memahami User : kettika memahami user kita dan bagaimana perilaku mereka maka solusi yang kita buat akan lebih tepat (seperti user 40 tahun ke atas tombol button lebih besar karena mengalami pengurangan dalam melihat teks dan icon , sebaliknya 12 - 40 tahun icon nya lebih sedikit dan pilihanya lebih banyak )
+   2) Kejelasan sistem : dengan memberikan feedback yang jelas user akan lebih mudah mengatasi permasalahan yang dia hadapi saat menggunakan aplikasi atau website yang kita rancang (contoh pada kode OTP, jika masih salah dalam memasukan code maka akan muncul tulisan warning bahwa code yang dimasukkan salah)
+   3) Menyerupai dunia nyata : user akan lebih mudah memahami ketika elemen pada aplikasi atau website menyerupai dunia nyata  (seperti keranjnag belanja , karena di dunia nyata keranjang digunakan untuk belanja biasanya disupermarket sehingga bisa diadopsi ke website atau aplikasi sehingga user sudah terbiasa dan familiar)
+   4) Kebebasan Pengguna : user akan lebi nyaman ketika mereka mempunyai pilihan ketika menggunakan aplikasi atau website (contoh ada pilihan menghapus dan batalkan, user bisa memilih untuk menghapus atau membatalkannya "ditanyakan kembali" sehingga merasa lebih nyaman)
+   5) Konsisten : Dengan konsisten dan menerapkan standar ketika mendesain, kita dapat memperoleh dua keuntungan untuk pengguna yaout mengurangi pembelajaran dan menghilangkan kebinggungan ( seperti cek box digunakan untuk pilihan lebih dari satu , jika radio buttom utnuk pilihan ya atau tidak )
+   6) Mencegah error : sebagai ui/ux designer kita juga harus memnimilaisir kemungkinan kesalahan yang dilakukan oleh user/pengguna (contoh pada box email, saat memasukan email yang tidak benar maka akan ada infromasi merah pastikan menggunakan format email yang bear, untuk mencegah error) 
+   7) Mengenali daripada mengingat : elemen pada ui pastikan dapat dengan mudah dikenali oleh user daripada mengharuskanmereka mengingat setiap elemn yang ada ( contoh pada google docs, ada ukuran font, dan kita mengasih tooltips sehingga user mengenali kegunaatn font itu dan membuat user mengingat untuk letak ganti font ,kotak ukuran font dll)
+   8) Fleksibel dan Efisien : kita harus memastikan bahwa user bisa melakukan apa yang mereka inginkan secara fleksibel dan efisien (contoh pada webiste artikel (medium) kita bisa melakukan blok pada beberapa kata atau beberapa kalimat disitu akan langsung muncul pilihan opsi seperti bold, garis tepi atau dikasih hyperlink ,sehingga lebih efisien)
+   9) Estetik dan Minimalis : dengan memastikan design kita estetik dan minimalis akan meningkatkan kepuasan penggunaan dari aplikasi atau website yang kita buat (akan mempengaruhi pengalaman user)
+
+- Jenis jenis Prototype
+   1) Low Fidelity : stage awal ketika mempunyai banyak aplikasi , bentuknya bisa sketching -> untuk menemukan garis besar aplikasi kita seperti apa jadi informasinya masih belum ada, masih placeholder , sudah kelihatan call to actionnya , posisinya dimana konten dimana dll.
+   2) Medium Fidelity :  disini udah menambahkan teks dan placeholdernya lebih rapi, gambarnya bukan gambaran kasar, jadi tahu teks sudah maksimum berapa karakter pd satu halaman , lain seprti logo proporsinya seperti apa , buttonya seperti apa sudah jelas.
+   3) High fidelity : sudah touch up secara design secara style secara pemilihan warna dan pemilihan font juga 
+
+- Jenis jenis user testing  
+   1)  Offline user testing : contohnya menggunakan low fidelity tadi jadi dengan sketching tadi sudah bisa melakukan validasi terhadap user , memastikan solusi kita sudah tepat atau belum 
+   2) Geurilla User testing : dilakukan di tempat umum dan random , kita membuat space dikasih tulisan siapa aja yang mau memberikan deefback terhadp apa yang kita design terus kita kasih reward
+   3) Online User Testing : dilakukan secara online , bisa melalui video call atau menggunakan aplikasi , sangat cocok dilakukan dalam masa pandemi , jadi tidak harus bertatap muka dengan user
