@@ -1,0 +1,87 @@
+INTERFACE STRUCTURE
+
+Outline -> 1) apa itu interface 2) kenapa perlu interface strctr 3) strctr utama dalam sebuah interface 4) component umum pd sebuah structr 5) mengenal condition state
+6) apa itu flow mapping 7) penting nya flow mapping 8) jenis jenis flow mapping 
+
+1) Interface Structure 
+- sebuah susunan dari berbagai macam komponen yang menjadi satu halaman atau suatu fungsi tertentu (website aplikasi terdiri dari berbagai komponen sprt gambar , font, 
+button dll)
+- Kenapa kita perli tau interface structure ? -> 
+	a) Bahasa yang Sama : dengan mengetahui structure dari sebuah interface akan membantu kita berkolaborasi dengan developer, karena kita menggunakan bahasa yang
+				sama (ui ux designer bertugas membuat interface web atau apk kemudian developer memakai design kita, dgn paham bahasa sama maka mudah 
+				komunikasi)
+- Structure Utama dalam sebuah interface 
+	1) Input komponen : adalah komponen dimana user bisa melakukan pengisian data (kyk username, password, email, nomor dll)
+	2) Navigasi Komponent : komponen dimana user melakukan aksi untuk berpidah halaman lain atau komponen lain (navigasi bar contohnya)
+	3) Information component : komponen dimana kita menampilkan informasi kepada user ( info info atau kontenya kyk email kita alamat kita dll)
+	4) Container Component : elemen yang mengikat atau menggabungkan component lain (kotak -> didalam kotak ada beberapa konten mulai dari masthead sampai footer)
+- Component Umum pada sebuah interface 
+	1) Accordion -> ada beberapa konten dimana menggunakan accordion atau menggabungkan beberapa konten atau di collapse 
+	2) Bento Menu -> menu yang sering kali keluar di mobile version , biasanya di navigasi , ada beberapa jenis seperti : Bento, Hamburger, Alt-burger, Meatball
+		kebab, doner)
+	3) Breadcrumb -> komponen umum lainya yg biasa muncul di UI , Membantu user agar tau sudah melalui halaman apa saja (contoh ada gambar dari Home->my account->
+		profile -> change password)
+	4) Button -> Button ada yang jenis text ada yang jenis gambar , ada yg icon doang 
+	5) Card -> Berisi 3 komponen secara umum yaitu gambar, konten, dan action (contoh action itu adalah share) diibaratkan seperti kartu ada gambar keterangan dll
+	6) Carousel -> elemen dari sebuah design yang overflow seperti bisa menggeser ke sebalh kiri atau ke kanan ( contoh di TIX atau film film yang bisa di geser 
+		kontenya)
+	7) Check Box -> Untuk melakukan persetujuan atau konfirmasi biasanya pakai checkbox 
+	8) Comment -> seperti di ig contohnya ada satu sesi dimana kita bisa meng komen sebuah konten 
+	9) Dropdown -> diadaptasi dari laci, ketika membuka ada pilihan beberapa data atau action yang ingin dipilih 
+	10) Icon -> mengambbarkan action tertentu (misal pensil untuk mengedit, setiing untuk pengaturan dll)
+	11) Loader -> saat memproses data meloading nahh ada logo loader nya
+	12) Modal -> seperti pop up , kek abis transaksi ada pop up transaksi sukses background lebih gelap
+	13) Notification -> seoerti halnya notification biasa 
+	14) Pagination -> untuk berpindah halaman dan mengetahui ada berapa halaman 
+	15) Picker -> ada time picker dan date picker , dimana user bisa memilih tanggal dan waktu yang diinginkan 
+	16) Progress Bar -> komponen yang menandakan progress sesuatu , seperti contoh progress pendaftaran dll untuk menunjukan user sudah melakukan apa saja sampai
+		stage mana (contoh 3 stage - create account - login - payment - confirm)
+	17) Radio Button -> bedanya dengan check box adalah dia lebih ke single value , memilih 1 dari beberaoa
+	18) Side Bar -> yang bisa menu tampil di ebelah kiri kek contoh web alta 
+	19) Slider Control -> user bisa menslide dan memilih value yang diinginkan (contoh volume dia ingin keras atau lemah) dengan slider control atau contoh range 
+		harga
+	20) Stepper -> untuk membantu user agar dia tau berada diposisi mana dan apa yang harus diselesaikan , kek ngisi gform harus di next jika udah bener bener 
+		sesuai kontenya 
+	21) Tag -> untuk menandai kategori atau type dan sejenisnya contohnya ada garis atau warna tertentu biasa di akhri bawah 
+	22) Tab bar -> sekumpulan menu yang berada dibwah aplikasi atau webiste kek webiste spotify yang dibawahnya da pilihannya beberapa 
+	23) Tooltip -> ketika kita hoover menaruh mouse kita di icon tertentu akan ada kata tertentu untuk penujuk (seperti ada icon print ,jika mouse mendekati icon 
+		icon tersebut akan keluar kata print+p akan ada informasi terkait elemen yang berada dibawah mouse)
+	24) Toggle -> Seperti contoh di word ada icon italic bold dan under line nahh icon satu kotak itu dinamakan toogle
+- Mengenal Condition State 
+Kondisi dalam sebuah komponen design terhadap kondisi tertentu pada keadaan tertentu ; contoh komponen font -> kondisi inacttive, focused, actived, hover, error, 
+disable -> lebih ke proses kek gform, misal belum di klik seperti apa ,kalau udah diklik seperti apa ,kalau form disisi dengan data yang tidak sesuai gimana .
+
+2) Flow Mapping
+- Apa itu user flow?
+langkah2 yang sudah divisualisasikan dan dapat diikuti pengguna melalui aplikasi untuk menyelesaikan satu atau beberapa tugas 
+- Pentingnya flow mapping 
+1) sebagai media komunikasi lintas department didalam sebuah perusahaan. Hal ini akan memudahkan kita berkolaborasi (contohnya user flow dari halaman depan kemudian 
+berbelanja dan melakukan pembayaran.) user flow membantu kolaborasi temen temen enginer temen bisnis dan marketing dengan satu acuan 
+2) sebagai dokumentasi : sebagai catatan atau dokumentasi untuk context transfer . (dengan user flow ,contoh saat kita keluar kota dan temen kita akan menghandle 
+project kita , temen kita bisa melihat dokumentasi sudah sampai mana kita menngerjakan dan dia akan meneruskannya) 
+3) Fokus untuk user : dengan ini kita akan lebih fokus kepada overall experience saat user menggunakan aplikasi kita. (kita tau ketika user menggunakan aplikasi dari 
+halam ini sampai halaman ini ,itu langkah langkahnya seperti apa ya ,dari user flow bisa tau apakah langkahnya kepanjangan ini harusnya bisa di eliminate atau disimple
+kan) sheingga bisa lebih fokus ke user 
+- Jenis jenis flow mapping :
+	1) Task Flow :jenis diagram yang hanya mengambarkan satu pekerjaan dan satu tujuan pengguna (mewakili satu action misal dari entry -> action- > succes) simple
+	2) Wire flow : satu elemen dari diagram yang digambarkan dengan layar nyata. dengan begini, perjalanan user di produk bisa tergambarkan lebih jelas. (udah 
+		menaruh interface , dan misal ini di klik ini akan mengarah kemana dan ini kemana jadi lebih jelas perjalanan user ke titik A atau B seperti apa dan
+		melalui apa aja)
+	3) User flow : mengambarkan tidak hanya perjalanan tetapi juga pilihan yang dimiliki pengguna dalam produk (user flow memiliki flow yang lebih komplit tidak 
+		seperti task flow yang hanya mengambarkan satu perjalanan , mengambarkan semua perjalanan dari user ) versi lengkap semua perjalanan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
