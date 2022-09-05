@@ -1,0 +1,71 @@
+Section 8 (Figma Introduction Interface Dimension)
+
+FIGMA SERIES #1
+- Apa itu dimensi dalam UI -> sebuah ukuran atau batasan dari suatu area atau biasa disebut ukuran layar. Sebagai ui ux dsigner harus tau dimensi apa aja khususnya mo-
+bile ataupun desktop.
+- Desktop dimension -> umumny ada Mac pro 14 (1440 pixel dan 1024 pixel)
+- Tablet dimension -> ukuran nya bisa dalam 1440 pixel 744 pixel , 834, 1024 pixel 
+- Phone dimension -> iphone 13 pro (428x926) android small (366x640)
+
+# Bagaimana memilih dimensi saat membuat ui 
+- Mobile app/website -> Ketika akan merancang sebuah design aplikasi pastikan memulai dari dimensi paling kecil (berdasarkan data pengguna), seperti contoh satu compny
+kebanyak user nya adalah iphone 8 , sehingga kita akan memulai untuk mengikuti dimensi tersebut. Memulai device paling kecil dahulu, kemudian ke paling besar.
+- Desktop App/Website -> ketika merancang sebuh design aplikasi pastikan memulai dari dimensi paling kecil (berdasarkan data pengguna) . intinya sama.pastikan kebanyakan
+menggunakan dimensi yang seperti apa, dan paling kecil.
+	-> Akan lebih mudah mengatur element design pada dimensi layar yang lebih besar daripada dimensi layar kecil, olehkarena itu disarankan mendesign pada dimensi 
+	   yang paling kecil. Membuat paling kecil karena visibility paling kecil dan susah, jadi jika dari kecil ke besar menjadi lebih mudah 
+- Memilih dimensi pada figma -> Memilih dimensi pada figma terletak pada side bar kanan. Taua bisa menggunakan shortcut "A".
+
+# Layer Management 
+- Dengan menerapkan layer management yang baik dan rapi kita akan mudah berkolaborasi dengan designer lain ketika bekerja di sebuah perusahaan. Ketika bekerja di perus
+ahaan kita bekerja team, dengan menerapkan layer management yang baik maka akan lebih mudah untuk berkolaborasi dan mudah dipahami oleh rekan kerja kita.
+- Struktur layer pada figma -> Ada 2 istilah ; parent layer berwarna merah dan shild layer didalamnya. Button-> Text BUTTON dan background di belakangnya 
+- Nested Layer -> Contoh pada layer login dengan tahapan layer : Form -> Form1 -> Text Place holder dan Background -> Form 2 sama dan terakhir -> Button -> BUTTON dan 
+backgroud     sehingga terlihat rapi dan enak buat berkolaborasi 
+- Auto Delete Parent -> Ketika semua child element didelete pada sebuah parent layer, maka parent layer otomatis akan terhapus. Hal ini akan menghindari adanya layer 
+kosong -> sehingga layer management menjadi rapi 
+- Unlock atau Unhide child layer -> kita bisa dengan otomatis hide/unhide atau lock/unlock semua child element yang ada disebuah parent layer. CMD+/ atau CTRL+/ (Terga
+ntuk platform)
+- Menamai layer dengan cepat -> kita bisa menekan "tab" untuk menamai layer selanjutnya. Dengan "tab +" untuk kembali ke layer paling atas 
+- Collabs and expand multi layer -> dengan memilih layer yang ingin di expand, layer lain yang terpilih akan mengikuti . ketika mau ngeblok semua yang ingin diketahui 
+untuk komponenya kita bisa mengexpand layar sehingga tidak usah membuka satu satu
+- Toggle cepat visibilitas dan mengunci sebuah layer -> dengan klik dan draf pada icon visible atau lock, layer lainnya akan mengikuti 
+
+# Styling on Figma 
+
+- Text Style -> Dengan menyimpan text style pada figma, kita bisa menggunakan style tersebut ke text lain . Ketika sudah menentukan satu text kemudian klik titik empat
+kita bisa menambahkan style . atau memilh style yang udah kita simpan . sehingga tidak perlu mengatur style dari awal, memakai style yang udah diatur diawal
+- Color Style -> Dengan menyimpan color style pada figma, kita bisa menggunakan ke object lain dengan cepat . Sama dengan text style. kita bisa simpan pada color style 
+dan tinggal digunakan di kemudiaan
+- Effect Style -> Dengan menyimpan effext style pada figma, kita bisa menggunakan ke object lain dengan cepat . Perinsip nya sama dengan sebelumnya . baik kek drop sh-
+adow dll. bisa kita simpan dahulu kemudian akan kita terapkan dikemudiannya
+- Image Fill Style -> Kita bisa menggunakan fill image untuk style pada figma . Mausknya colowr stlye tetapi mengisinya dengan image . untuk type banner atau user yang
+punya foto didalamnya .
+- Grid Style -> Dengan menyimpan grid style pada figma, kita bisa menggunakannya ke Artboard lain dengan cepat. Grid gunanya untuk memastikan bahwa pembagian atau grid 
+yang kita set untuk UI sudah sesuai kyk biasanya sering digunakan untuk responsive design.
+- Style Tips -> dengan mengatur grouping dan menamai style dengan rapi akan memudahkan kita designer dan developer. Keuntungannya menggunakan style difigma , selain 
+untuk memudahkan para designer juga menggunakan style yang udah ditentukan diawal itu juga akan memudahkan developer. Figma ini tempat untuk designer dan developer 
+berkolaborasi . COntoh bisa dilihat pada tab code developer bisa tahu betul dan sesuai dengan teman teman yang lain 
+-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
