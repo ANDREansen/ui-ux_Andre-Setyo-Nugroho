@@ -1,0 +1,140 @@
+Design System 
+
+Yang menjadi momok banyak menggugunakan istilah berbeda beda seperti style tidak menggunakan design system , Ui kit, atau library system. ui ux designer semuas guidli
+ne disgn system itu disamain padahal tidak.
+
+# Design System itu apa si ?
+- Design system adalah sebuah standarisasi yang mengatur setiap elemen (termasuk komponen) desain untuk mengurangi redudansi. kenapa mengurangi redudansi ?
+Ketika kita tidak memakai desain sistem ada beberapa web atau app yang tidak menerapkan DS itu tidak konsisten (ada button yang rounded->sangat kotak) mengurangi 
+redudansi lebih ke mengurangi komponen komponen agar konsisten.
+- Design system adalah kumpulan prinsip dan praktik bersama yang membantu menginformasikan pekerjaan designer, product manager, dan developer serta sales dan marketing.
+
+# Kenapa harus menggunakan design System 
+- Saat pertama membuat project entah product atau project ,pekerjaan berlangsung cepat dan mungkin bisa jadi seru (ada tantangan, dan ada recuirment yang harus ditemui)
+- Masalah yang kalian solve menjadi lebih jelas saat kalian mendapatkan pemahaman yang lebih baik tentang user base. saat pemahaman kalian tumbuh, ide dan solusi terbe
+ntuk
+- Setiap anggota tim memiliki bagian yang dimainkan untuk menyusun produk pengalaman pengguna (user experience) 
+- Pihak pihak ketika bikin design system = 1) Designer 2) Developer 3) Product Manager 4) sales 5)Marketing 
+1) Si Designer 
+	-> Mereka punya fle design, tapi tidak bisa diakses dengan mudah oleh front end dev sama produst manager (padahal si pihak fornt end dan product harus tau keti
+	ka proses bikin UI UX ) 
+	-> Screenshot dan artboard di share bolak balik dan adanya perubahan yang konstan (Ada beberapa project dia berbeda beda dan pada akhirnya harus bolak balik pa
+	dahal di artboardnya ini kok bisa beda beda harusnya secara fungsinya itu sama kenapa harus dibeadin . ntah dibedain dari warnanya ,struktur layoutnya ,padahl
+	punya layout yg sama)
+	-> Karena tidak ada guideline di pekerjaan, mereka akhirnya mempertahankan pilihan dan solusi yang sama secara terus menerus (karena ga ada guide line kita pun
+	nya idealisme sendiri seakan akan bisa benar dan sering sama terus, dan masih bawa ego masing masing tanpa melihat si lain ) harus keep mind open . harus balance
+2) Si Front end dev
+	-> Mereka banyak menghabiskan waktu dengan develop kodingan yang sama terus, tetapi dengan konteks yang berbeda
+	-> Mereka juga tidak mendapatkan akses file design dan akhirnya tidak dapat insight kenapa atau bagaimana keputusan dari Si designer ini dibuat 
+	-> Akhirnya mereka notice, adanya ketidak konsisten di teks warna dan spacing di beberapa mockup mereka dan akhirnya kondingan jadi berantakan
+3) Si product manager 
+	-> Dapat banyak tekanand ari user dan stackholder yang dibawa. Karena road map produknya panjang dan resource nya kecil 
+	-> Merasa resource designer sama developer itu kurang karena harus meng-handle semua pekerjaannya 
+	-> Banyak masalah minor yang ingin mereka solve sendiri, tetapi tidak mau melangkahi mereka  
+
+# Perbedaan style guide/io kit, component library, dan design system 
+- Style Guide/UI kit 
+Dokumentasi yang masih bersifat statis
+Jadi masih menyingkup color, typography, iconography dan masih banyak lagi 
+	-> dinamisnya gimana ? lebih mengarah ke komponen libarary nya , kan udah bikin styling tu kek warna atau text nah skrng digabungin digunain untuk membentuk 
+	komponen 
+- Component Library 
+Dokumentasi kumpulan style dan component yang bisa digunakan dan dibagikan ke tim. ini bisa jadi memasukkan dokumentasi koding dari setiap component.
+Contoh componentnya seperti button (paling sering), text field, checkbox dan yang lainnnya.  
+- Design System 
+Dokumentasi kumpulan element, component dan regions yang sudah ditentukan ,termasuk guideline-nya designer dan front end dev
+Contohnya, kapan button ini digunakan, kenapa pakai warna ini (ada alasan disetiap component). -> guideline , menurut sebuah company button didefinisikan sebagai apa 
+	si. kalau udah ada definisinya lanjut ke kapan si kita makai button itu sudah mengacu ke guideline ) .Usahain beda antara style guide , component library, dan 
+	design system. 
+
+# Kapan kita butuh design system
+- Ada 3 point yang diutamakan 
+1) Umur Perusahaan -> karena setiap tahun perusahaan selalu berkembang, otomatis kebutuhan mereka juga bertambah
+2) Ukurtan tim -> Coba cek resource timnya dulu.Jika kalian merasa timnnya bakal berkembang kedepannya, maka saat itulah memikirkan untuk memakai design system
+3) Beban pekerjaan -> sebagai ui ux designer sering bergantian antara brand yang di desain sama kebutuhan user. Krena pekerjaan mereka itu tidak ada iterasinya, dan 
+ui ux designer tidak terlalu melihat adanya kesempatan untuk mengembangkan user experience. Tetapi design system bisa digunakan sebagai starting point untuk membuat 
+brand.
+
+# Kapan adanya design system 
+- Ada 3 point yang didapatkan = 1) Brand bisa konsisten (karena guideline kita semua distandarisasi) 2) Menajdi comapny identity (kerana konssisten maka akan menjadi
+identitas ,sehingga selaras) 3) Mempunyai nilai yang sama antar pegawai (Semua yang mempunyai peran dalam design system ada valuenya dan workloadnya diringankan karena
+ada guideline)
+
+# Bagaimana caranya membangun sebuah design system 
+-  Akan terbagi menjadi 2 bagian = 
+1) Atomic methodology 
+	-> Merupakan metodologi perancangan yang mengambil inspirasi dari bagaimana sebuah elemen atom membentuk molekul yang lebih kompleks hingga membentuk suatu 
+	organisme dan ini analogikan ke setiap antarmuka halaman situs atau aplikasi 
+	-> Elemen dalam atomic design = metode ini dituntut mendesain dari komponen terkecilnya.Uniknya, nama komponen diambil dari istilah kimia 
+	a) Atom = Komponen terkecil atomic design adalah "atom". Bentuknya berupa tombol, input, label dan lain lain. Ciri komponen ini adalah tidak bisa dipecah lagi
+	. Jika diurai, fungsi dan maknanya akan rusak dan berbeda. Salah satu contohnya ada tombol search jika kamu membongkarnya menjadi tombol dan tulisan "search"
+	tentu makna keduanya akan berbeda.
+	b) Molekul = Jika beberapa atom dikumpulkan , mereka akan membentuk sebuah molekul. Misal kamu mengabung atom tombol search dan input search. Semua itu akan 
+	membentuk fitur pencarian yang utuh 
+	c)Organisme = kumpulan molekul, misal molekul ditur search bar kamu tempel ke heade. Selain itu ada tombol navigasi dan logo disana. Inilah yang membentuk 
+	suatu organisme. Buka merupakan hasil desain sempurna, tetapi kombinasi semuanya bisa digunakan ulang di banyak halaman 
+	d) Template = Dalam atomic design, template adalah gabungan dari beberapa organisme. seperti namanya yg merupakan "blueprint" dari sebuah halaman web. Bluepri
+	nt ini tentu bisa dimodifikasi .Ia sangat mirip dengan wireframe, ditampilkan berupa elemen dan belum punya data nyata   (kek wireframe)
+	e) Page (Halaman) = halaman merupakan produk akhir dari desain atomis, ia merupakan template yang diisi dengan data ntyata 
+2) Best practice to build a design system 
+	-> 3 langkah membangun desain sistem 
+	a) Evaluasi inventaris ui kamu saat ini dan catat inkonsistensi pada desain yang kamu buat 
+	   Telusuri produk kamu dan tinjau semua elemen desain yang dibuat. Dari sana kamu dapat membuat katalog komponen UI dan elemen visual yang akan membentuk fond
+	   asi sistem desain kamu. Selain itu, kamu dapat mengidentifikasikan inkonsistensi yang mungkin muncul dan membuat keputusan desain yang tepat dimasa depan.
+	b) Bangun sebuah pattern library dari berbagai elemen desain yangs ama 
+	   Pattern library adalah kumpulan komponen UI yang dapat digunakan kembali yang kemudian akan memudahkan pekerjaan desain di masa mendatang 
+   Ada 2 jenis pola utama 
+	1. Fungional
+	2. Persepsi;
+	yang bekersa bersama untuk membentuk blok pembangunan desain kamu.
+	
+	c) Dokumentasikan aturan desain kamu, lalu atur juga bagaimana dan kapan elemen elemen desain itu dapat digunakan.
+	   Tnpa panduan yang jelas tentang bagaimana dan kapan menggunakan elemen desain, kamu tidak memiliki desain yang sebenarnya, melainkan kamu hanya memiliki kum
+	   pulan elemen dan UI library. Saat kamu membuat desain sistem, pastikan untuk mendokumentasikan tentang bagaimana sebuah tim dapat menggunakan dan memelihara
+	   nya secara efektif 
+- Pedoman utama untuk dimasukan kedalam dokumentasi mencakup tentang 
+1. bagaimana anggota tim dapat berkontribusi pada desain sistem
+2. bagaimana melaporkan jika ada sebuah masalah dengan desain sistem
+3. bagaimana sebuah tim berenana untuk mengatasi masalah yang sedang berlangsung
+4. bagaimana kamu akan mengatur konsistensi antar sisi desain dan sisi kode 
+Pedoman dan rekomendasi yang jelas memungkinkan tim untuk segera bekerja lebih cepat dan efisien 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
