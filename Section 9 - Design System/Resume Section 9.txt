@@ -50,7 +50,7 @@ Contohnya, kapan button ini digunakan, kenapa pakai warna ini (ada alasan diseti
 # Kapan kita butuh design system
 - Ada 3 point yang diutamakan 
 1) Umur Perusahaan -> karena setiap tahun perusahaan selalu berkembang, otomatis kebutuhan mereka juga bertambah
-2) Ukurtan tim -> Coba cek resource timnya dulu.Jika kalian merasa timnnya bakal berkembang kedepannya, maka saat itulah memikirkan untuk memakai design system
+2) Ukuran tim -> Coba cek resource timnya dulu.Jika kalian merasa timnnya bakal berkembang kedepannya, maka saat itulah memikirkan untuk memakai design system
 3) Beban pekerjaan -> sebagai ui ux designer sering bergantian antara brand yang di desain sama kebutuhan user. Krena pekerjaan mereka itu tidak ada iterasinya, dan 
 ui ux designer tidak terlalu melihat adanya kesempatan untuk mengembangkan user experience. Tetapi design system bisa digunakan sebagai starting point untuk membuat 
 brand.
