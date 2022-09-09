@@ -1,0 +1,343 @@
+Mobile Guide
+
+# Visual Desain 
+Ada beberapa layotu umutk mendaesian mulai dari Ipad mobile hingga desktop
+as ui ux harus menyesuaikan kebuthannya -> memerhatikan tampilannya (baik vertikal atau horuizontal) 
+-> Auto layout : disarankan menggunakan auto layout (kita bisa mendefine dan aturan aturan ) seperti constrae
+	Ktika kita menggunakan auto layout bisa dipastikan kita menggunakan padding di bagian kanan dan kiri frame dan ada marginnya untuk mengetahui batasannya baik horizontal juga
+-> Kita harus mendesain safe area juga (seperti tampilan ada keyboardnya ) kita bisa mendesain dengan mudah dengan auto layout
+-> 1) Tampilan desain kita sesuai ketika di dimensi manapun (ada tablet vertikal mobil vertikal horizontal dll) 
+-> General layput consideration (tips) 
+1) pastikan conten clear di size yang pd umumnya 2) pastikan semua style digunakan harus konsisten 3) mengunakan visual weight (shadow) untuk balance 4) spacing bisa digunakan
+untuk mudah di lihat oleh user 5) kalau memungkinkan , bagaimana tampilan kita horizontal dan vertikal 6) persiapkan perubahan ukura text 7) menyediakan target target
+yang interaktif dengan user (elemen) 8) kita harus mencoba desain kita pada multiple device ,dimension, orientation 9) pastikan memberikan margin ketika tampilan kita di display
+(contoh tampilan iphone 6 -> pad di ipad menambahkan margin) 
+-> Animation : animasi yang kita buat pastikan tidak berlebihan dan konsisten  (opsional tergantung elemn) 
+-> Branding : lebih ke style (color dkk) (waktu ngeblok tulisan)
+1) pastikan branding color font style nya di refind yang sudah dinal
+2) jangan sampai brand mendistract aplikasi yang kita buat 
+3) pastikan ux nya kebih di prioritaskan (brand hanya digunakan untuk tambahan)
+4) sebisa mungkin kkita menampilkan logo di aplikasi (jan sering menampilkan logo, usahakan di awal aja)
+5) ios mengikuti trademark guideline apple (navbar dll bisa mengunakan apple guide)
+-> Color
+1) jangan mengandalakna warna saja untuk membedakan desain (bisa menambhakn style lain seperti shadow)
+2) kita harus mengunakan warna secara cermat utk berkomunikasi dengan user (seperrti alert warna merah , benar (hijau ))
+3) ketika logo merah jan semua desain kita warna nya merah , warna nya merah sebagai pemanis saja
+4) bisa untuk memberikan indikasi pada aplikasi (seperti di home button ketika di home warnanya berubah)
+5) juga disarankan membuat 2 versi dark mode dan light mode 
+6) kita harus memberikan warna berbeda (button warna button biru navigation , dan warna lain kek konten bisa abu abu)
+7) picture elemen dll, kita ahrus pastikan balance bisa terlihat dll jan sampe tertutup
+8) kita juga melakukan testing pada dalam ruang dan luar ruang karena ux nya berbeda 
+9) bisa digunakan software untuk test warna thema saat diluar ruang
+10) penfgunaan warna dinegara lain bagaimana ,( hijau negative, indonesia sebagai okai) kita harus memerhatikan ketika bekerja internasional
+11) hindari warna membuat user untuk melihatnya (background putih text abu abu)
+-> Dark Mode 
+1) Pastikan test pd desain dark mode dan light mode 
+-> Lunch screen 1
+1) tips lunch sscreen -> desain lunch screen semirip mungkin sehingga user tidak merasa pindah aplikasi
+-> Terminology (loading)
+1) disarankan menggunakan kata kata yang mudah di cerna
+2) simple 
+3) pastikan interactive
+4) hindari bahasa yang melarang 
+5) kalau bisa menggunakan bahasa yang informal atau friendly
+6) hati hati ketika menggunakan humor 
+7) pastikan image sama language itu relevant
+8) pastikan bahasa mengunakan termilogy yg umum
+-> Typography for ios 
+disarankan menggunakan "san francisco (SF)" 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mobile Guide 
+
+#Theme 
+- sebuah kumpulan elemen elemen desain layout pagaes dll yng digunaakan diseluruh aplikasi kita (sudah satu kesatuan) ada 2 penting : cuality dan fasionality (font desain ukuruan dll)
+Point :
+1) Clarity (kejelasan desain kita konten dll)
+2) deference (kita membuta elemen dan bisa dipahami user, seperti interactionnya juga)
+3) depth (bagaimana desain kita tidak membingungkan misal memisahkan 2 elemen secara jelas, misal dengan style , border dll)
+- Interfave essential (user interface meliputi apa aja)
+1) Bars (bar paling atas memberi tahu kita diposisi mana, ada actionya)
+2) Views (konten itu ditampilkan, kek button picture dll)
+3) Control (aplikasi umumnya pd bagian bawah ada navbar user bisa pergi kemanapun)
+
+#App arsitecture
+- Launching : 1) Screen yang pertama muncul bisa dikatakan lunch screen (kitaharus memprovidenya) 2) orientasi nya sesuai(muncul dari mana dll) 3) disarankan menghindari user
+set up informasi di awal 4) dihindari untuk menampilkan term yang panjang 5) disarankan utk mengembalikan posisi user pas diawal 6) mengarahkan user utk merestart
+7) dihindari langsung melakukan penilaian pd aplikasi
+- Onboarding :1) pastikan onboarding menyenangkan bukan sebuah setup diawal 2) onboarding ceoat (ada 3 screen, jan sampe 10 scren) 3) kita memberikan action to help
+4) informasi paling penting kita tampilakn 6) onboaridng menyenangkan dan mudah untuk ditelusuri 
+- Loading : 1) pastikan jelas aplikasi memangs edang loading (bisa contoh abis action ada pop up atau loading dll) 2) tunjukan konten informasi secepat mungkin 
+3) loadingnya dibuat fun, saat menunggu bisa terhibur kek dikasih animasi dll
+- Modality : 1) penggunaan modal harus masuk akal tidak tiap action muncul pop up 2) modal memberikan ifnromasi yang penting 3) pastikan modal sesimple mungkin
+4) jika konten banyak , disarankan menggunakan modal yang full screen 5)pastikan menggunakan button untuk close 6) kalau dibutuhkan kita bisa menganti data saat modal 
+muncul seperti save, tapi ke close belum kesimpen dan akan ada konfirmasi lagi 7) buat identifikasi modal mudah untuk di identifikasi 8) pastikan modal view pd diposisi
+yang mudah di aksesn (ditengah) 9) pastikan mengunakan transisi pd umumnya 
+- Navigation type  
+ada 3 tipe : Hierarchical (disususn secara berurut ada parent childe), Flat (cuma ada 1 layer) dan Content driven (naviasgi yang mengacu pd konten) 
+- Navigation tips :
+1) mendesain jalur jalurnya itu clear mudah paham
+2) pastikan desian nya mudah diakses engan cepat
+3) bisa ditambahkan touch gestures untuk membuat actionnya lebih fluid
+4) kita gunnakan navigati komponen yang standar 
+5) kita mengunakan navigasi bar untuk memberikan ifnromasi susunan konten
+6) tab baru utk menampilkan kategori yang terkait 
+7) utk ipad mengguunakan split view
+8) gunakan page control untuk conten yang banyak
+
+# Accesing user data and resources
+- meminta akses kontak gakleri maps -> meminta permision untuk mau pindah page
+- meminta akses untuk digunakan diawal aplikasi diluncurkan 
+- copy , text data yang digunakan bisa secara jelas, akses yang diminmta buat apa
+
+# Settings
+-memberikan informasi yang jelas kita bisa akses atau seting apa aja
+- memberikan prioritas pd konfigurasi 
+- untuk configuration opting yang jarang muncul dan inrfequently bisa dimunculkan pada seting 
+- memberikan akses desain bisa mudah ditemukan 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+# Video 
+cara menampilkan video pd uinterface dengan resolusi yang berbeda (4:3 dan 21:9)
+
+#icon dan image 
+-sat esxport bisa di 1 kali 2 kali 3 kali device (tinggal di  klik untuk export)
+- Image size and resolution :
+1) Sesimple mungking
+2) fokus pd 1 icon pada item 
+3) iconya mudah dikenali
+4) backgorund nya solid
+5) pastikan menggunakan text
+6) jangan menggunakan foto screen shot dkk
+7) jangn menggunakan replicaes aplle hardware product
+8) jangan menempatkan icon app diluar interface 
+9) test icon pada walpaper yang berbeda 
+10) icon cornor dibuat square aja khusus IOS
+- disarankan menggunakan icon icon material yang sudah ada, seperti share, add, camera dll
+
+#bars
+Navbar : 
+- bisa menyembunyikan navbar secara temporer untuk ux yang lebih baik
+- kita menggunakan title utk posisi dimana
+- menggunakan large text untuk menekankan box
+- disarnkan menggunakan segment control tuntuk mensimplekan hierarchy
+Search bar :
+- gunakan search bar utk fungsi menggunakan seacrh dengan text bar
+- gunakan clear button (menghapus)
+- menambhakna rtombol canceel
+- memberikan placeholder text ,untuk memberikan konteks seacrh apa
+- scope untuk filter untuk membentu pencarian  
+Side bar :
+- pastikan membuattampilan jelas ada opembeda di side bar dan konten dikanan 
+- hierarki tidak lebih 2 level
+- jangan disembunyina sidebarnya
+- pastikan menunya memang dibutuhkan pd menu primer , utk sub menu ditaruh dibawa menu prime
+Status Bars:
+- stauts bar (jam batre signal wifi dll) untuk apply ke pada developer 
+- pastikan style dengan aplikasid esain 
+- konten terlihat jelas pd status bar dan dibawahnya 
+- hiding menyembunyikan status bar ketika diplay full screen
+- menyembunyikan permanent status bar 
+Tab bar :
+- gunakan tab bar utk navigasi saja
+- gunakan minimum number untk tabnya jangan terlalu banyak 
+- pada ipad ios mengunakan disarankan side bar
+- tab bar pastikan selalu ada
+- konten tidak ada tab bar jan di disabe
+- pastikan tab bar affect the view dan relate 
+- pastikan menggunakan badge ,kita harus memberikan saat ter klik dll ada desain khusu
+- utk ios menggunakan SF simbol
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Fundamental tips
+
+- Size : 
+1) size untuk mobile dipastikan satu kolom saja dan user bisa scroll , kalau desktop 3 kolom bole
+2) informasi penting bisa ditampilkan 
+- Screen orientation 
+1) menyiapkan kedua kondisi veritcal dan hori, 60% menggunakan horizontal 
+2) 49% menggunakan 1 jempol 
+- Navigation and input 
+1) pad amobile device , ga ada physical keyboard dan bergantung pada gesture mobil entah slide atau tab ada juga digital keyboard, untk button dan area yg dipencet 
+user jan terlalu kecil jan terlalu besar 
+- Seamless Design 
+1) Lebih ke responsive , kita pastikan design kita sama baik tampilan dan view 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Grid 
+Pengaturan tata letak pada desain 
+3 komponen : 1) garis tepi luar, 2) garis tepi dalam 3) kolom
+
+- Putline : mengenal grid , grid monile app, grid system ,material design 
+
+- Mengenal : 1) konten ditempatkan di area layar yang berisi kolom 2) jumlah kolom yang t=ditentukan oleh rentang breakpoint 
+- Grid : garis bantu untuk menyelaraskan dan meletakkan elemen desain 
+- Grid system : sekumpulan aturan untk memposisikan garis bantu baik horizontal dan vertical 
+
+#Grid pada mobile app
+- Column grid : garis kisi yang berbentuk veritkal
+- rows grid : garis kisi yang berbentukj horizontal 
+- pixel grid : garis kotak kotak menyerupai pixel (paling kecil 8)
+
+#grid pada android & IOS 
+- Mobile app 
+Layar android :
+	1) Small : 360px x 640px
+	2) Large : 360px x 700px 
+
+Grid System : 
+	1) Type : Stretch
+	2) Gutter : 16px / 12 px
+	3) Margin : 16 px
+	4) Columb : 4, 70px/67px
+- Layar IOS 
+	Iphone 8 : 375px x 667px
+	Iophone 8 plus : 414px x 736px
+	iphone 11 pro : 375px x 812 px
+	Iphone 11 pro mas : 371px x 812px
+
+- Grid system ios 
+ada margin ganjil yang disebabkan ada beberapa device yang ukuran layarnya ganjil 
+
+#Membuat grid system di figma 
+- Layotu grid : klik menu grid berada pada right bar 
+- pixel grid : ubah default grid dari 10 px menjadi 8 px
+- Column grid :
+	default menjadi 
+	count : 4 
+	margin : 16
+	gutter : 16/20
+- Row grid :
+ubah default menjadi 
+	COunt : 1000
+	Type : Top
+	Height : 8
+	Offset : 0
+	Gutter : 0
+	Mount : 8
+
+#Material design grid :
+- Material design overview 
+Design system dibuat google membantu tim membangun UX berkualtioas tinggi utk andorid ios fluter dan web 
+- Brakpoint 
+kenali breakpoint agar lebih mudah mendesain ui yang responsif
+	-> breakpint (pd ukuran berapa desain berubah layoutnya)
+- Bagaimana dengan grid system di material design 
+-> Materian design : responsive layout grid : menyesuaikan dengan ukuran dan orientasi layar, memastikan konsistensi di seluruh layout dan atau perangkat 
+- Bedah layout grid system pada material design 
+-> Column
+	1) konten idtempatkan di area layar yang berisi kolom
+	2) Jumlah kolom ditentukan oleh rentang breakpoint 
+-> Coloumn :
+	1) 4 Column , pada breakpoint mobile 360d
+	2) 8 column ,pd breakpoint tablet 600d
+-> Margin : Margin 16, pada breakpoint mobile 360d dan tablet 600d 
+-> Gutter : 1) gutter 16, pada breakpoint mobil 360dp
+	    2) gutter 24, pada breakpoint tablet 600dp
+
+# Cutom Grid System
+
+- Apa tujuan grdi cutom?
+Supaya dapat disesuaikan unrtuk memenuhi kebuthan produk dan beberapa ukutan perangkat 
+- Bedah Custom gutter 
+1) Custom gutter 1 : gutter dapat disesuaikan untuk membuta lebih banyak atau lebih sedikit ruang antar kolom 
+	-> guter 8, pada breakpoint tablet 600dp
+2) Custom gutter 2 : gutter 32 dp dapat membuta lebih banyak pemisahan antar kolom 
+	-> gutter 32, pada breakpoint tablet 600dp
+3) Larangan saat cutom gutter 
+	-> Nilainya yang terlalu lebar 
+	-> Nilainya sama dengan kolom 
+- Bedah cutom margin & gutter 
+1) Custom gutter 1 : pada semua breakpoint nilai margin dan gutter boleh berbeda 
+- Bedah horizontal grid 
+1) horizontal grid 1 : margin, column, gutter ditempatkan dikiri dan kanan,bukan atas dan bawah 
+2) horizontal grid 2 : bisa mengakomodasi ketinggian yang berbeda, memungkinkan top bar atau wilayah UI lainnya di bagian atas 
+
+				22.42
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+# Gestur 
+
+Penerapan gesture
+Apa itu gesture ?
+-> medium pengguna untuk berkomunikasi dengan sebuah produk
+- Prinsip Gesture  :
+	1) Alternative interavtion (gerakan pengguna di sentuhan)
+	2) Easy to use  (gerakan benar dan tepat)
+	3) Tactile control (memunkingkan element berubah secara sentuhan seperti zoom)
+- Jenis gesture : 1)Navigational gesture 2) Action getsure 3) Trnasform gestures 
+
+1) Navigational gestire : Tap, Scroll an pan (kek nelusuri maps) , drag (ke atasin maps ada info), swipe (geser kanan kiri atau atas bawah sekali), pinch (kek zoom in 
+out untuk memperbesar layar untuk membuka konten)
+2) Action gesture : Shortcut sangat direkomendasikan pada penggunaan gestur aksi :
+	-> Tap : tap tapi tidak berpindah halaman
+	-> Long press : di hold elementnya untuk memilih 
+	-> Swipe : contoh memfavorit sebuha artikel bisa swap ke kanan
+3) Transform gesture 
+	-> Doube tap : like ig pada gambar , atau zoom gambar 
+	-> pinch : memperbesar memperkecil konten pada batas tertentu
+	-> compound gestures : geser kanan kiri zoom in out agak miring (transisi mulus)
+	-> pick up and move  : di hold kemudian di geser.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
