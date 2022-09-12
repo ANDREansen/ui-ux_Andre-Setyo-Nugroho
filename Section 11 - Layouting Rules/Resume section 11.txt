@@ -1,0 +1,68 @@
+Outline nya : 1) Ngative Space 2) Proximity 3) Contrast 4) Alignment 5) Focal Points 
+
+# Negative Spase
+- Negative space adalah area pd desain yang tidak mendaoatkan tempat atau tidak diperhatikan oleh designer
+- Mengacu pada desain atau satu halaman kosong pada desain -> mengacu lebih ke area kosong
+- Example : kita bisa menghilangkan negative space (contoh logo atas) dengan cara memperbesar logo 
+
+# Proximity 
+- Disebelah kiri bisa dilihat desain terdapat negative space juga tida menjadi satu kesatuan 
+- Proximity adalah element desain yang saling terhubung satu dengan yang lainnya . Elemen desain tidak terpecah atau tidak berdiri sendiri, mereka satu kesatuan bersama 
+- Proximity dan negative sapec saling berhubungan 
+- Example : contoh lama login yang ada gambarnya di sebelah kanan kosong, dan button berdiri sendiri
+
+# Cra agar tidak terlihat proximity dan negative space
+1. Repetition : Selalu ulangi desain yang kalian lakukan, contoh membuat artikel sebaiknya kri kanan ada dua duanya di setiap halaman
+	- Similar style -> Repetition bukan hanya berhubungan dengan bentuknya, polanya yang berulang ulang -> namun warnanya berulang ulang atau letaknya
+	- Color scheme : warna harus konsisten dan sesuai misal ungu ungu
+	- Group together -> ada gambar untuk mendukung deskripsi diatas 
+
+# Contrast 
+- contras adalah dua desain elemen yang memiliki perbedaan antara penampilan dan juga warnanya
+- BUkan hanya warna namun bentuk visual dan tata letaknya , sehingga perlu melakukan experimen terhadap warna bentuk dan stylenya
+- Example : Bold and normal font , Image contrast lebel, contrast color, contrast position, color and shape.
+
+# Alignment
+- Alignemnet merupakan tata letak pada desain yang kita lakukan, tidak mengacu pada text doang, -> mengacu pada teks, image, desain dan elemen secara keseluruhan
+- harus presisi baik dari kiri dan kanan 
+
+# Focal Points
+- Focal point akan mempelajari bagaimana seorang user melihat desain yang kita buat 
+- dari mana memandang dan lari ke arah mana
+- Jika sudah memulai focal point  , misal logo maka berarti logo bisa ditaruh ditengah, misal gambar dulu maka bisa ditaruh dibawah
+- Bisa mengacu pada warna dan letak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
