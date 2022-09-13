@@ -1,0 +1,96 @@
+FIGMA LAYOUTING 
+
+# Outline : apa itu autolayout , autolayout difigma dan keuntungan menggunakan auto layout 
+
+# Apa itu auto layout 
+- Auto layout adalah sebuah property yang bisa anda tambahkan ke sebuah frame atau layout
+- sebuah setting yang bisa ditambahkan element pada sebuah figma 
+
+#Auto layout di figma 
+1) Vertical Direction 
+2) Horizontal Direction 
+3) Spacing Value : nilai jarak antar elemen desain 
+4) Padding : jarak dengan frame dari sebuah elemen desain 
+5) Alignment : pengaturan posisi atas kanan kiri atau ditengah dll.
+
+1) Vertical direction
+- Menambahkan arah axis Y pada elemen yang berada didalam auto layout 
+# Horizontal Direction
+2) Menambahkan arah axis X pada elemen yang berada didalam autolayout
+3) Automatic spacing value
+- Kita bisa mengatur spacing antar elemen yang berada didalam suatu auto layout
+- Dengan menggunakan feature ini konsisten padding atau jarak akan konsisten 
+4) Automatic padding 
+- Memberikan space pada sekeliling elemen sebuah desain 
+5) Allignment
+- Mengatur penataan elemen desain didalam sebuah auto layout
+6) Distribution 
+- Mengatur distribusi pembagian jarak didalam sebuah auto layout
+7) Resizing
+- Properti dimana kita bisa mengatur bagaimana auto layout kita akan tumbuh
+8) Hug Content
+- Pengaturan ukuran frame berdasarkan content yang berada didalamnya, termasuk padding yang sudah kita atur (menyesuaikan konten)
+9) Fill Container 
+- Pengaturan ukuran frame dimana elemen didalamnya akan menyesuaikan dengan panjang aytau lebar container dari auto layoout (konten yang menyesuaikan bungkusnya)
+10) Menambhakan object baru
+- Ketika menambahkan object baru didalam sebuah auto layoutm object tersebut akan secara otomatis mengikuti properti setting pada autolayout
+11) Nested auto layout
+- Seperti halnya layer nested. Autolayout juga bisa untuk menjadi nested .
+- Kita bisa mentaur alignment, padding dan resizing properti juga.
+
+
+# Keuntungan Mneggunakan Autolayout
+
+1) Konsistensi
+- Jarak antar object desain layout dan alignment akan konsisten, Jadi kita tidak perlu memikirkan pixel perfectnya lagi
+2)Pixel Perfect
+- Dengan menggunaakan auto layout ,kita akanmudah menambahkan dan menghapus object tanpa harus mengatur ulang jarak ataupun alignment
+3) Responsive 
+- Kita bisa membuat sebuah responsive desain dengan mudah tanpa harus membuat 1 per 1 untuk dimensi yang berbeda 
+4) Efisien 
+- Dengan fitur ini akan meningkatkan efisiensi dari designer (contoh halaman mobile desktp dll cuma membuat satu aja)
+5) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
