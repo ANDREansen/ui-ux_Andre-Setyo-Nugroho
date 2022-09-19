@@ -1,0 +1,158 @@
+Outline nya : 1) Ngative Space 2) Proximity 3) Contrast 4) Alignment 5) Focal Points 
+
+# Negative Spase
+- Negative space adalah area pd desain yang tidak mendaoatkan tempat atau tidak diperhatikan oleh designer
+- Mengacu pada desain atau satu halaman kosong pada desain -> mengacu lebih ke area kosong
+- Example : kita bisa menghilangkan negative space (contoh logo atas) dengan cara memperbesar logo 
+
+# Proximity 
+- Disebelah kiri bisa dilihat desain terdapat negative space juga tida menjadi satu kesatuan 
+- Proximity adalah element desain yang saling terhubung satu dengan yang lainnya . Elemen desain tidak terpecah atau tidak berdiri sendiri, mereka satu kesatuan bersama 
+- Proximity dan negative sapec saling berhubungan 
+- Example : contoh lama login yang ada gambarnya di sebelah kanan kosong, dan button berdiri sendiri
+
+# Cra agar tidak terlihat proximity dan negative space
+1. Repetition : Selalu ulangi desain yang kalian lakukan, contoh membuat artikel sebaiknya kri kanan ada dua duanya di setiap halaman
+	- Similar style -> Repetition bukan hanya berhubungan dengan bentuknya, polanya yang berulang ulang -> namun warnanya berulang ulang atau letaknya
+	- Color scheme : warna harus konsisten dan sesuai misal ungu ungu
+	- Group together -> ada gambar untuk mendukung deskripsi diatas 
+
+# Contrast 
+- contras adalah dua desain elemen yang memiliki perbedaan antara penampilan dan juga warnanya
+- BUkan hanya warna namun bentuk visual dan tata letaknya , sehingga perlu melakukan experimen terhadap warna bentuk dan stylenya
+- Example : Bold and normal font , Image contrast lebel, contrast color, contrast position, color and shape.
+
+# Alignment
+- Alignemnet merupakan tata letak pada desain yang kita lakukan, tidak mengacu pada text doang, -> mengacu pada teks, image, desain dan elemen secara keseluruhan
+- harus presisi baik dari kiri dan kanan 
+
+# Focal Points
+- Focal point akan mempelajari bagaimana seorang user melihat desain yang kita buat 
+- dari mana memandang dan lari ke arah mana
+- Jika sudah memulai focal point  , misal logo maka berarti logo bisa ditaruh ditengah, misal gambar dulu maka bisa ditaruh dibawah
+- Bisa mengacu pada warna dan letak
+
+
+#Fogg Behavior
+Outline : Model fogg, Grid , B=MAP, Balancing, A good prompt, Design For Behavior
+
+-> Fog Behavior Model 
+- Fogg adalah konsep yang mendesain sebuah konsep yang aakan menjelaskan kita bagaimana user itu dapat mengadopsi dan juga menggunakan aplikasi kita dengan bagus. jadi 
+kebiasaan mereka dalam aplikasi ini dapat terbentuk 
+- Berguna untuk merubah kebiasaan kalian hari hari... merubah kebiasaan jelek 
+- Ada 3 indikator penting : 
+	1) Motivation : jalan masuk nantinya untuk merubah atau mengubah kebiasaan kita 
+	2) Ability
+	3) Prompt 
+- Motivasion UI UX bisa di indikatorkan dengan mungkin iklan yang muncul (jika ingin website kalian eksis dan banyak digunakan pertam iklannya dulu nih, harus spedisik detik
+pertama , kalau ui ux motivation terdapat di landing pagenya -> intinya menggugah user ke tahap selanjutnya , kemudian mereka mengisi data sesuai dengan yang kita mau , 
+mengikuti petunjuk sesuai dengan yang kita mau dll.
+- Ability akan ngak maksimal kalau motivasionya rendah
+- Promt berfungsi unutk menarik ulang, jadi ketika user pengen pergi dari halaman kita , kita kasih notifikasi seperti ada materinya 
+	-> prompt berfungsi untuk user lebih dalam di website kita walaupun cuma sedikit, contoh abis membeli di market place ada isi ratingnya dulu , atau diberi 
+	   diskon (menahan) 
+-> Figg Behavior Grid 
+- Berfungsi untuk mengotak-otakan apa sih behavior yang dpaat kita rubah dengan tipe ataupun level seperti apa
+- Biasanya ada 15 kotak untuk keefektifav behavior grid yang dibagi menjadi 5 kategori (dibagi menjadi wara green, blue, purple, grey dan black)
+- Green untuk behavior baru, blue untuk yang familiar ,Purple untuk meningkatkan, Gray untuk menurunkan dan black untuk menyetop (memberhentikan)
+- Jika ingin merubah kebiasaan baru ke user alian bisa melakukan dot artinya hanya dilakukan sekali, span ada durasi sampai 40 harian, path itu permanen.
+- Cara menggunakan gridnya yaitu dengan kita menambahkan ke sisi experience dari segi dotnya dulu coba sehari gimana respon mereka kemudian coba cara permanen sampai 
+40 hari dan simpulkan responnya
+ 
+-> B=MAP
+- B = Behavior , P = Prompt, M = Motivation, A = Ability
+- Sehinggan ketika MAP nya naik maka Bnya juga akan naik, kayak gitu ya dan yang paling perlu perhatikan ada pada motivasinya 
+- Jika motivation nya tinggi otomatis ablitiynya akan berat , jadi antara motivasion juga ability perlu menyetarakan
+-> Balancing 
+- Mengatur keseimbangan antara motivasi dan lain lain  (yang paling bagus adalah motivasi dan ability itu setara) sehingga mereka punya insight utk masuk tapi dapat
+menggunakan UI UX nya 
+- Dari Segi promt nya kita dapat memberikan beberapa hal seperti : 
+1) Call to action -> contohnya subscription , biasnaya untuk pengguna baru 
+2) Board
+3) Notifications -> jika ada berita baru ataupun chart 
+4) Email
+
+- Example prompt yang bagus = jangan asal menuliskan tetap tinggal tanpa ada alasan jelas kenapa user harus bertahan 
+a) ada jangan suruh pergi tapi ada diskon dll untuk sign up now jadi ada konten untuk sebagai alasan kenapa user harus stay 
+1) Berarti untuk contex user , ini berhubungan dengan tujuan user
+2) datang di saat yang tepat ( user termotivasi dan setuju untuk melakukan action) misal ada diskon saat ada hari muslim 
+3) Meraih perhatian user , di atur dari segi UI nya kita harus memberikan kesan gambar warna font dll untuk menraik perhatian 	
+
+-> Design for behabior
+1) Pahami motivasi usermu (saat membuat user persona, atau interview dll)
+2) Buat semudah mungkin ui mu , membuat mudah digunakan, -> semakin bagus jika jangan memasukan form apapun waktu diawal awal untuk first impresion
+3) Identify meaningful promt and use them at the right time -> jangan berikan prompt disaat yang salah lagi merka lagi mengetik tbtb dikasih prompt bahwa hei ada dis
+kon nih , kayak menganggu 
+
+
+# Conceptual Design
+Outline : KISS, Make it easy to understand, make progress to user visible, make progress meaningful, make succesful completion clearly
+-> Keep is Short and Simple (KISS)
+1) Lihat setiap kata dan kalmat
+2) multisensor metaform disini maksudnya adalah jangan memanfaatkan satu hal doang supaya user merasakan experiencenya (contoh user nga ingin keluar dari halaman ,kalian
+jangan menggunakan text doang, sertakan gambar dan button mungkin informasi mendukung lainnya.
+3) Melakukan testing ke semua orang, jadi bukan hanya teman kalian doang agar mengetahui impact UI dan UX yang kita buat ketika orang lain menggunakananya 
+
+-> Make it easy to understand 
+1) Ciptakan kosisten visual strategi , biasanya dapat kita lakukan dengan melakukan layouting awal seperti button warnanya seperti apa bentuknya seperti apa
+2) Gunakan bentuk bentuk lain daripada hanya garis
+3) Gunakan animasi untuk menarik interaksi yang ada, bisa dimanfaatkan ketika mulai masuk ke arah user yang mencoba melengkapi sesuaitu seperti profile jadi akan ada 
+animasinya. Selamat telah melengkapi profile 
+4) Gunakan vocabulary yang tepat , bermaksud agar informasi dapat dikirim dengan bagus juga, jangan gunakan kata kata yang tidak diperlukan 
+5) Break patterns wehn it necessary , maksudnya silahkan kalian berkreasi dengan kebutuhan kalian , ketika kalian ingin menrepkan plating dalam aplikasi , boleh banget
+ 
+-> Make progress to user visible ( untuk membangun komunikasi antara aplikasi dan juga website yang kita buat)
+1) Mengurangi waktu user sehingga user tahu bahwa app ini beneran sedang bekerja untuk mencari apa yang mereka inginkan (Gojek- > Sedang mencari driver) 
+2) Memberikan waktu beberapa lama untuk mengunggu agar persepsi yang didalam aplikasi itu sama persis dengan persepsi usernya 
+
+-> Make progress meaningful in order to reward user 
+Tanpa sadar jita diberikan hadiah kalau telah berhasil atau telah melakukan sesuatu di website tersebut , beberapa hal yang mungkin tidak disadarri yaitu :
+1) Informational = merupakan reward ke user bahwa mereka telah berhasil menyelesaikan semuanya dan rewardnya cuma berupa informasi 
+2) Social = contohnya ada di sistem like yang mana tanpa kita sadari kita membuat user addicted dengan sistem like dan komen , makkin banyak like merkea makin suka
+sehingga mereka lebih sering menggunakan aplikasi kita 
+3) Gamification : koreng sistem dan juga pencapaian yang diberikan kepada user dan itu bersifat informasional juga (setelah mereka menyelesaikan beberapa task atau 
+course mereka akan diberikan balikan achivment) 
+4) Monetization = berbentuk tidak cuma uang tapi bisa physical product , jadi memberikan hadiah kepada user secara sebenarnya setelah mencapai target tertentu
+
+-> Make successful completion clearly visible
+Kita bisa menggunakan presentage ketika mereka melakukan loading karena itu yang paling informatid dan juga hindari penggunaan progress
+- ada beberapa penanda seperti presentage, kemudian yang step-step-step, Schalton biasanya digunakan ketika kita masuk kesebuah halam website seperti tokped berfungsi
+memberikan experience oh ini loh tampilan yang akan tampil tapi sedang diproses , presentage ketika ingin upload 
+- HIndari static progess hanya tulisan dan kurang informatif 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
