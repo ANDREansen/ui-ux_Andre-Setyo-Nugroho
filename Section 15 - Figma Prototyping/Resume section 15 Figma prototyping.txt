@@ -1,0 +1,80 @@
+FIGMA PROTOTYPING
+
+Outline : 1) Kenapa harus prototyping 2) Tujuan Prototyping 3) Figma Prototyping 4) Action Type in Figma 5) Trigger Type in Figma
+
+1) Kenaa harus prototyping 
+-> Testing Instrument : Dari sini kita mencoba interface kita kepada user guna untuk mengumpukan insight ataupun feedback
+-> Stakeholder Vision : Membantu stakeholder melihat vision dari rancangan aplikasi atau website secara interaktif
+-> Saving Money : Dengan menggunakan prototypie, kita bisa melakukan testing ke user bahkan sebelum produk didevelop 
+
+2) Tujuan Prototyping 
+-> Exploration : Dengan prototyping kita akan mengetahui apakah step/flow yang telah kita buat adalah solusi yang terbaik buat user
+-> Data Collection : Dengan membuat prototype dari design yang telah kita buat. Maka feedback atau insight yang akan kita dapat akan semakin akurat untuk keperluan 
+anaalisa pengembangan produk
+
+3) Figma Protoyping 
+-> Create Connection : 1) Cari hotspot untuk koneksi 2) Clik to create the connection  3) Drag it to the destination 4) If there are no existing connections, Figma will make the first frame
+a starting point.
+-> Create Animation : 1)Open prototype tab in the right sidebar 2) Add interactions 3) Set interaction detail 4) Apply an animation 5) Preview your animation
+-> Prototype Setting (keperluan untuk bisa share link untuk diakses user dll) : 1) Selecet a device and model 2) Preview your prototype 3) Selecet background color 
+4) Set the prototype's starting frame
+
+4) Action Type in Figma 
+-> Nevigate to : Simple motion action dimana akan berpindah dari rframe 1 ke frame lainnya
+-> Open overlay : membuka suatu drame dan penempatannya berada diatas curent frame
+-> Scroll to : menjadikan suatu frame bisa di scroll
+-> Swap with : menukar frame 1 dengan frame lainnya
+-> Back : mengarahkan kembali ke frame sebelumnya 
+-> Close overlay : menutup overlay yang berada di frame dan kembali ke kondisi frame semula
+-> Open link : membuka external link 
+
+5) Trigger Type in Figma
+-> On click : membuat suatu element atau frame menjadi clickable atau tabable
+-> On drag : menjadikan suatu elemen atau frame bisa di drag atau dipindahkan
+-> While hovering : mengaktifkna animation atau action ketika kondisi mouse pointer berada di atas suatu object atau frame 
+-> While pressing : mengaktifkan animation atau action ketika kondisi mouse pointer "klik"/"tap" dan di hold di suatu element design atau frame 
+-> Keyboard shortcut : mereplikasi action keboard didalam suatu prototype
+-> Mouse Enter : menagktifkan animattion atau action ketikda kondisi mouse memasuki area action
+-> Mouse leave : mengaktifkan animation atau action ketika kondisi mouse meninggalkan area action
+-> Mouse down : mengaktifkan animation atau action ketika user klik mouse atau tap dan mengarahkan pointer ke bawah 
+-> Mouse up : mengaktifkan animation atau action ketika user klik mouse atau tap dan mengarahkan pointer ke atas
+-> After delay : memberikan jeda waktu setelah user melakukan action pada sebuah element design ataupun frame 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
