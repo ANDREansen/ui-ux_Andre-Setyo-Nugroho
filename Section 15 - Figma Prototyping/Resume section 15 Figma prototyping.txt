@@ -2,7 +2,7 @@ FIGMA PROTOTYPING
 
 Outline : 1) Kenapa harus prototyping 2) Tujuan Prototyping 3) Figma Prototyping 4) Action Type in Figma 5) Trigger Type in Figma
 
-1) Kenaa harus prototyping 
+1) Kenapa harus prototyping 
 -> Testing Instrument : Dari sini kita mencoba interface kita kepada user guna untuk mengumpukan insight ataupun feedback
 -> Stakeholder Vision : Membantu stakeholder melihat vision dari rancangan aplikasi atau website secara interaktif
 -> Saving Money : Dengan menggunakan prototypie, kita bisa melakukan testing ke user bahkan sebelum produk didevelop 
