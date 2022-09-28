@@ -1,0 +1,142 @@
+ux writing part 1
+#The voice and tone
+-> Outline : Microcopy, apa itu ?, peran microcopy di ux, dampak microcopy di UI , voice and tone design ,conversational writing
+
+# Microcopy itu apa?
+Microcopy = copy 
+Menurut kinneret yiffrah ,microcopy adalah kata atau frasa di ui yang terkait langsung dengan tindakan yang dilakukan user:
+1) Motivasi sebelum tindakan 
+2) instruksi yang menyertai tindakan 
+3) feedback setelah user mengambil tindakan 
+
+- Peran microcopy 
+-> Selama bertahun tahun trennya membuat interface yang clean 
+-> banyak orang mengklaim bahwa kata kata membebani interface dan dianggap  sebagai ancvaman user
+-> di sisi lain, juga meminimalkan pentingnya kata kata dan menegaskan tidak ada yang membacanya
+-> Dengan kata lain, jika kalian ingin membuat interface yang terdengar " manusia" dan berhubungan dengan orang yang menggunakannya perlu kata katya (copies)
+
+- Dampak microcopy di UI
+1) Menciptakan experience yang positf dan melibatkan user 
+-> Microcopy mengurangi keterasingan antara manusia dan mesin, dan merubah hubungan dari berasa bertemu robot dengan pengalaman manusia itu sendiri
+2) Meningkatkan dari sisi usability
+-> Microcopy melumasi roda interface dan mengurangi gesekan dengan user
+-> Microcopy yang ditulis dengan baik, muncul tepat pada tempat yang dibutuhkan, akan mencegah masalah dalam menyelesaikan suatu action dan akan menyelamatkan waktu, frustasi dan perasaan tidak berdaya dari user
+3) Meningkatkan branding dan diferensiasi 
+-> microcopy ditulis dengan full understanding tentang brand kalian dan menargetkan user untuk highlight karakter brand dan membedakannya dari brand lain
+-> Daripada ui yangterkesan boring dan dapat diprediksi, ketika user menemukan brand kalian di internet, user merasa ui kalian unik dan penug dengan personality
+
+# Voice and tone design
+- ada hal yang kalian lakukan sebelum membuat microcopy pertama kalian 
+"penulis microcopy untuk wen dan aplikasi yahu betul sebelum menulis judul *title), CTA (call to action), atau apapun kalimat lain yang menuntut kita ke posisi user dan mereka berspekulsasi.. "
+
+1) Apa yang mendorong mereka?
+2) Apa sebenarnya yang menggambarkan nilai yang kami berikan
+3) bagaimana kita dapat membuktikan kepada mereka kalau solusi terbaiknya adsalah produk atau layanan kita?
+4) haruskah kita menggunakan humor?
+5) apa kita perlu menulis secara formal?
+6) setiap pertimbangan diatas sangat penting dan memang perlu memastikan setiap kata yang kita tulis bisa efektif dan berfungsi dengan baik.
+
+# Voice and tone design
+- Voice and tone design menentukan bahasa yang akan digunakan pada brand saat berkomunikasi dengan user UI kalian
+- Voice and tone akan menjaga bahasa yang digunakan pada brand sejalan dengan nilai utama dan dukungan mereka , agar tidak menciptakan ketidakselarasan dan ketidak konsistenan
+
+# Voice and tone bedanya ?
+- Voice lebih ke pilihan kata yang konsisten dan dapat dikenali di seluru pengalamannya
+- Tone mengarahke variasi dalam suara (voice) dan satu bagian pegalaman ke bagian yang lain
+
+# Contoh
+- ada seorang anak mendengar ibunya menelpon
+- etika ibunya sedang menelpon, si anak itu langsung tahu nada(tone) ibunya telpon dari orang asing, atau dari orang terdekatnya
+- Tetapi si anak tidak perna binggung kalau itu adalah suara (voice) uibunya
+
+# Cara menentukan voice design
+1) Baca design brand yang sudah kalian tulis, dan coba filter informasi penting tentang brand kalian
+2) Dengarkan apa yang user katakan dan coba filter entah dari quotes, kata yang otentik, dan kata yang sering diulang oleh user
+3) Adakan interview tentang personality brand dan target audiens nya kalian ke orang terdekat
+4) Hasilkan Voice Design dari poin diatas
+
+# Contoh intyerview pertasnyaan personality brand dan terget audiens
+- Untuk menentukan personality brand kalian, coba pakai pertanyaan ini :
+1) Jika brand tersebut adalah orang, dan mereka lagi jalan
+2) Personality mana yang sangat cocok dengan brand kalian?
+- Biar lebih jelasnya, ada tools untuk mencari personality yang dikembangkan oleh Pamela Wilson 
+1) Personable and friendly - corporate proffesional
+2) Spontaneous and high energy - careful thinking palnning
+3) Modern or hi-tech - classcing and tradisional
+4) cutting edge and fun - serious
+5) Accesible to all - upscale
+
+#Contoh interview pertanyaan Personality Brand dan target audiens
+- Untuk menentukan target audiens kalian, coba pakai pertanyaan ini :
+1) Ketika menanyakan brand kalian, user ingin mengatakan apa tentang brand kalian?
+2) Problem apa yang ingin kalian solved dari brand kalian?
+
+# Conversational Writing
+- Dalam praktiknya, sebagian besar UI digital jauh dari kesan manusia.
+- Tulisannya sering kali bersifat robotik, dan tidak menimbulkan rasa perhatian secara personal.
+
+# Tips agar Conversational Writing
+- Be natural, and spontanious
+- Apa kalian ragu-ragu tentang bagaimana mengungkapkan sesuatu?
+- Bayangkan seorang seorang customer service berdiri tepat di depan kalian, bagaimana mereka akan mengungkapkannya?
+- Coba untuk menjadi se-alami dan se-spontan yang kalian bisa, tanpa pemrosesan atau penataan sebelumnya.
+
+- Gimana kedengarannya?
+- Coba baca dengan apa yang telah kalian tulis. 
+- Apa sudah terdengar alami? Kira-kira sudah kelihatan mengalir?
+- Apa itu terdengar seperti manusia yang ngomong?
+
+- Coba bikin pertanyaan
+- Pertanyaan itu bisa menciptakan percakapan kalian mengalir, seolah-olah seseorang bertanya dan yang lain menjawab.
+- Daripada bilang :
+“Ketik email address Anda untuk mengirimkan password.”
+- Coba tulis seperti ini :
+“Kemana ya buat mengirimkan link ini?”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
