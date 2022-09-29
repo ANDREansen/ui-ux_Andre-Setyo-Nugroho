@@ -1,0 +1,146 @@
+UX writing part 2 - Tips for crafting effective content
+Outline : 1) Bagaimana cara membuat konten yang efektif 2) 10 best practices untuk membuat konten yang efektif
+
+# Bagaimana cara membuat konten yang efektif
+Mengapa sebagai desainer itu harus bisa menulis?
+- Menulis dapat membuat  kamu menjadi seorang deesainer yang 
+1) Lebih pandai
+2) pandai berkomunikasi 
+3) lebih baik sebagai individu
+
+Bahkan di forum design in tech 2017, John Maeda dalam laporan tahunannya, maeda menyatakan bahwa "code is not the only unicorn skill/" Beliau menyebutkan bahwa skill
+luar biasa lainnya yang diperlukan seorang desianer adalah menulis
+
+# Menulis bagi kebanyakan orang termasuk desainer, itu menyulitkan
+- Copywriter pada website atau aplikasi klien kamu adalah salah satu aspek terpenting dari sebuah desain
+- Disitus e-commerce khususnya, konten adalah hal yang sangat penting unuk mengubah penjualan, membangun voice dan tone yang konsisten untuk sebuah merekm dan mening
+gaktakn experience pengguna secara keseluruhan. Satu kata saja dapat membuat perbedaan signifikan
+- Disinilah disiplin UX Writer yang berkembang masuk ke ranah desain
+
+# Bagaimana para ahli dari bidang yang abru ini menyusun sebuah penulisan ux yang baik?
+- Ada 10 tips yang bisa dipelajari 
+1) Riset audiens dan eksplorasi tindakan yang mereka maksudkan
+2) Sejelas mungkin yang kamu bisa
+3) Hindari, jelaskan , dan selesaikan error nya
+4) Gunakan terminologi yang konsisten selama membangun desain
+5) Pertahankan UX Wrting kamu dengan data
+6) Gunakan voice dan tone yang sesuai
+7) Pilih kata kata yang familiar
+8) Gunakan empati kepada user
+9) Silahkan testing pemahaman user
+10) Gunakan kemampuan komunikasi kamu untuk menggaet stakeholder
+
+1) Riset audiens dan eksplorasi tindakan yang mereka maksudkan 
+- Menurut andrea drugay seorang manager ux writer di slack mengakatan : " Bagaimana orang ini tiba dilayar tempat mereka berada dan ke mana kamu, mereka, dan model 
+bisnis seperti mereka selanjutnya?
+- Apa tindakan yang kamu ingin mereka lakukan?
+
+2) Sejelas mungkin yang kamu bisa
+- Seseorang harus menyampaikan pesan secara efektif dengan menggunakan kata kata sesedikit mungkin. Setiap kata harus memiliki tujuan
+- Kurangi kata kata sedemikian rupa, sehingga ketika kehilangan kata kata lebihd ari yang dimaksudkan akan membuat sebuah kalimat tidak lengkap tujuannya
+
+3) Hindari, jelaskan , dan selesaikan error nya
+- Ketika kamus edang berurusan dengan error state, maka direkomendasikan berfikir melalui 3 langkah berikut :
+	-> Hindari - Cari cara untuk menolong user tanpa harus memperlihatkan mereka sebuah error
+	-> Jelaskan - Kalau kalian tidak bisa menghindari error yang muncul, pastikan kamu menjelaskan apa yang sedang terjadi
+	-> Selesaikan - Mengatasi kesalahan dengan membanbantu pengguna produk kamu menyelesaikan tugas taua tujuan mereka
+
+4) Gunakan terminologi yang konsisten selama membangun desain
+- Senakin konsisten terminologi yang kamu terapkan, maka semakin sedikit kebinggungan yang akan dihadapi pengguna produk kamu, dan semakin cepat juga mereka 
+menyelesaikan tugas atau tujuan mereka
+
+5) Pertahankan UX Wrting kamu dengan data
+- Jika data menunjukkan kepada kamu bahwa, hanya sedikit orang yang benar benar membeli sesuatu ( meskipun traffic tinggi ke halaman checkout), Kamu mungkin perlu meng
+komunikasikan pesan pada halaman tersebut sedikit lebih baik
+
+6) Gunakan voice dan tone yang sesuai
+- Kamu sdapat membangun kepercayaan dan mengurangi "gesekan" dengan membuat sebuah voice kepada pengguna produk kalian secara konstan dalam copywriting. Jadi, jika
+voice produk kamu itu "bersemabngat". Selalu coba gunakan behasa yang bernada positif
+- Gunakan kalimat yang berkonotasi positif daripada denotasi netral. Pilihan menyajikan secara positif menginduksi perasaan ceria. Hindari menggunakan kata kata
+negatif atau bahkan negasi ganda seperti "Do not unfollow" (jika kasusnya seperti di sosial media)
+- Tone pada produk membantu pengguna memahami kata, juga emosi yang tersirat dari suatu produk. Ketika kosakata yang digunakan oleh sistem cocok denagn kosakata 
+pengguna, itu membuat pengguna merasa dipahami dan percaya diri. Misalnya, menggunakan "Oops" menunjukkan permintaan maaf yang ramah atas kesalahan, sedangkan "Error"
+Secara harfiah berarti "SALAH"
+
+7) Pilih kata kata yang familiar
+- Saat ini experience menjelajahi website atau berbelanja online memiliki kosakata yang berkembang denagn baik. Laura roberson seorang co-founder dari perusahaan 
+Contentious merekomendasikan untuk memandu pengguna pengguna kamu disekitar situs mereka dan membantu mereka melalui proses yang menggunakan kata kata yang mungkin mereka 
+kenali dan samakan dengan tindakan yang ingin mereka ambil 
+
+8) Gunakan empati kepada audiens
+- Peran kamu sebagai desainer termasuk menjelaskan hal hal seperti syarat dan ketentuan dan melindungi privasi orang. Cobalah lebih berhati harti untuk membuat konten 
+ini jelas, menarik, dan ringkas. Berkolaborasi lah pada desain dengan berbagai pihak dan disarankan untuk mnembah hal hal seperti sub judul yang bermanfaat bagi user/
+Iterasi proses desain kamu dan cari tahu informasi apa yang perlu kamu kumpulkan
+
+9) Silahkan testing pemahaman user 
+- Pekerjaan para ux writer dan content designer tidak akan selesai ketika penulisan telah selesai. Memastikan bahwa para pengguna itu paham denagn apa yang disampaikan
+, dapat membantu memenuhi kebutuhan pengguna, dan para pengguna dapat memanfaatkan sebaik baiknya, merupakan hal yang krusial bagi mereka
+- Salah satu cara untuk memahami pemahaman user terhadap penulisan di produk kamu dapat memanfaatkan A/B Testing
+
+10) Gunakan kemampuan komunikasi kamu untuk menggaet stakeholder
+- Aspek kunci dari pekerjaan seorang penulis UX adalah memberikan visibilitas ke proses desain mereka ke berbagai area perusahaan. Terkadang mereka harus menjelaskan 
+dan mempertahankan keputusan di depan tim yang belum tentu tahu tentang UX dan nilainya.
+
+# Tips menulis microcopy ke beberapa component
+- Kita gunakan component yang cukup sering ditemui 
+1) Error message
+2) Placeholder
+3) Buttons
+
+- Coba tulis tanpa terlihat kaku, adanya ancamana atau memberi printah
+	-> Contoh : 1) Fill in this field 2) This field is mandatory 3) You cannot proceed, the following field are incorrect 4) You must provide a mobil phone number
+	            5) Dear customer, you are not allowed to perform this action
+	-> 1) Error! please correct the field 2) Error in one or more fields 3) The action failed. Try again
+- Tulis tanpa menggunakan istilah teksnis, seperti validasi atau verifikasi
+- Dan yang terburuk adalah menggabungkan istilah teknis dengan rumusan hukum, dan istilah "error" dan "failure" 
+- Error message yang baik 
+	1) Deja vu! that email's taken. Forgot your password?
+	2) Hmm .. That doesn't look line an email address
+	3) Look like these are not your correct details. Please try again.
+	4) "A fan of punctuation! Alas, usernames can't have consecutive periods"
+	5) Oop! you need to type your email here
+	6) We need your first name - it;s clear that way
+	7) Last Name, too ,Please !
+	
+# Tips Menulis Button
+- Sebelum menulis Button, ada peringatan penting : " TEST, TEST, DAN TESTING "
+- Karena menulis button itu penuh kejutan, dan kalau merubah hanya satu kata saja, akan signifikan mempengaruhi conversion rates 
+- Fokus menulis apa yang user dapatkan (value), daripada apa yang user lakukan (action).
+- Ketika button fokus ke action-nya daripada value-nya, kita membiarkan user untuk menarik kesimpulannya sendiri, dan kita tidak tahu apa yang dipikirkan oleh user.
+- Sebaliknya, ketika button fokus ke value-nya daripada action-nya, kita menawarkan button yang ingin mereka cari. 
+- Contohnya :
+	-> Ada seorang UX Writer mengganti copy button Order information, menjadi Get information.
+	-> Dan hasil testingnya, conversionnya ternyata naik menjadi 40%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
