@@ -1,0 +1,119 @@
+# WEB GUIDE 1
+- (bagaimana mendesain sebuah wesbite yang baik)
+
+# Dont Make me (or anyone) think 
+- They want to know what they should do immediately and then do it (jangan samapi si user pertama kali lihat website berfikir atau binggung
+harus ngapain) jadi dia harus tau apa yg dilakukan 
+
+# Design for scaning, not reading
+- Use universally accepted conventions (kesepakatan universal seperti ada 2 opsi login)
+- Create visual hierarchies (membuat sebuah visual hierarchy seperti penekanan pada judul halaman)
+- Make Obvius what's clickable (ada button atau action yang clickable)
+- Not confronting you with all the detail at once (jangan tampilin semua dulu bisa dengan bantuan action cliklable untuk meneruskannya)
+
+# Time wasting sucks
+- People go online to save time not to spend it (dia ingin seefisien mungkin buat menghabiskan waktu saat contoh perbelanjaan online)
+
+# Let me go back
+- Mistakes dont matter to much drom a user's perspective ( saat melakukan kesalahan user ingin kembali sehingga harus ada tombol back sehingga
+merasa aman saat melakukan kesalahan)
+
+# People are habitual 
+- If something works well - people will tend to stick to using that (dia terbisasa dgn sesuatu (form kotak) secara habbit melihat kotak melihat 
+itu sebuah form untuk menginput, sebisa mungkin menghindari tampilan secara total yg membuat user harus membentuk habit baru)
+
+# Get the point 
+- Again with the time saving - people dont look for pleasantries on the internet (ketika berfikir dia langsung mendapatkan apa yang dia inginkan, 
+mungkins edikit mengabaikan kenyamanan untuk mencapai tujuannya)
+- Make click mindless (membuat click atau action sebisa mungkin tanpa user berfikir atau binggung) "ini bisa di clik ga ya" jangan sampai user merara gitu
+- It is necessary to remove any filler word or sentences (utk awarding vberpengaruh, dan harus to the point, awarding dibuat dibuat sedirect mungkin
+se simple mungkin)
+
+# Some people love search
+- There's a certain group of users who have become search-dependent (dari hasil riset bahwa ada beberapa orang yang suka explore, seperti filter2
+untuk memudahkan tipe tipe orang seperti itu) seperti lagi diskon atau populer harus tersedia
+
+# Dont change the map 
+- People remember the experience of interacting with website and applications (ketika user sudah mengunakan aplikasi dan website dan terbisa , aksesnya kita ubah cara
+belanjanya , hanya bisa diakses lewat profil, dan akan ingat cara penggunaan aplikasi nya) jangan menganti posisi jalur item tersebut
+- Persistent navigation (sebisa mungkin navigation atau lokasi atau flow itu sama)
+- Page names (user harus tahu dia berada dimana, seerti profile maka di halaman tersebut ada petunjuk dia di halaman profile)
+- "You are here" Navigation (kita membantu user untuk mengetahui dimana user)
+
+# Show them the way to go home
+- The home button is the ultimate emergency exot for user (kita memberikan jalan user untuk kembali ke home) ada button home dimana posisisnya disitu terus
+
+# Dont argue but test
+- Tetsing with real users opens up a whole new dimension to the discussion and also helps everyone involved to re-learn about their assumption.
+(jangan argunmen atau membentuk asumsi ttg apa yg dibutuhkan user tetapi harus ada test)
+	-> Usabily Testing-Do it regulary (lakukan secarareguler seperti sebulan sekali semingu sekali)
+	-> Frequency
+	-> Number of users
+	-> Testing
+	-> Focus
+
+# Increase your reservoir of goodwill
+- Make the most important things that your user would want to do on your site as easy as possible (hal penting yg harus ada di website harus semudah mungkin
+, misal ingin berbelanja yaa dibuat semudah mungkin)
+- Be upfront about the information that users would want to view (pastikan dihighlghit untuk info yang user butuhkan, seperti e commerce dengan fashion
+,user ingin tahu mengenai bahanya dan kita kasih informasinya)
+- Save steps where ever you can (sebisa mungkin kita harus bisa me simple kan step user untuk action hal yang dia inginkan, seperti ingin belanja
+maka stepnya kasih se sedikit mungkin)
+- It good to apologise to user when your are not able to do what the user expect, 404 oage or some limiting functionality that you knoew user would
+want but for some reason you cannot provide it. (kita harus mengatasi state kondisi, contoh ketika ingin terbang kebali dan membuka tgl 18 ternyata tidak ada
+secara interface harus ada tampilan dimana menjaesalkan bahwa dihari itu tidak ada, kita harus memberikan solusi seperti ganti tgl atau maskapai dll)
+
+
+# Dashboard (web guide)
+Outline : dashboard , pertimbangan mendesain, anatomi , desain pattern
+
+# Dashboard apa itu ?
+- Tampilan visual yang memiliki informasi penting (saja) sesuai dengan kebutuhan , yang perlu digaris bawahi adalah informasi openting
+
+# Pentingnya dashboard 
+- Sangat memungkinkan pengguna untuk bisa melihat data data yang sangat banyak dan berat dengan mudah
+
+# Data dinamis
+- Memberikan wawasan kepada pengguna bisa melihat data real-time, mengidentifikasi pola
+
+# Hal hal yang jadi peritmbangan dalam mendesain dashboard
+1) Tentukan tujuan : pertimbangkan berapa user persona yang dipakai
+	-> Siapa saja yang akan menggunakannya?
+	-> Apa perlu dibuat beberapa versi? 
+2) Data: 
+	-> Apakah data dilihat dari waktu ke waktu?
+	-> Berapa banyak data yang kita miliki? (tahun, bukan, dll)
+	-> Bisakah kita menghitung pernyataan logis untuk membuat wawasan?
+3) Petakan konteks pengguna
+	-> Apa yang jadi perhatian ?
+	-> Bagaimana pelaporannya?
+	-> Apa saja yang perlu ditampilkan?
+	-> Apa ada nilai tunggual yang hirarkinya paling itnggi?
+	-> Skenarionya bagaimana ?
+4) Prioritas
+	-> Prioritaskan apa saja yang benar benar ada di dashboard
+5) Relevansi data
+	-> Sampai kapan ini relevan?
+	-> Cara yang lebih baik untuk menampilkannya
+
+# Anatomi dashboard
+1) Navigasi : berfungsi untuk menjelajahi tujuan tujuan pada halaman yang berbeda (left bar)
+2) Area konten : konten diisi dengan data data yang penting (penggunaan shape icon image dll)
+3) Filter : pengguna bisa melihat data dengan lebih efektif dan efisien (mempercepat pengguna untuk melihat informasi seutuhnya)
+4) Section : Dalam satu halaman bisa jadi terdiri dari beberapa bagian dengan kepentingan yang berbeda 
+5) Modul : "Daging" dari dashboard ini disajikan dalam bentuk angka atau diagram.
+
+# Chart & Graphic Pattern
+- Gunakan warna 
+	-> Gunakan warna yang bisa merepresentasikan sifat buruk(merah), peringatan(kuning) , dan baik(hijau)
+	-> Gunakan variasi pada warna untuk merepresentasikan intensitas dari entitas
+- Gunakan delta
+	-> Delta digunakan untuk menunjukkan perbedaan makna dalam data (perbandingan kenaikan dan penuruan omset perusahan dll)
+- Responsif 
+	-> Tentang bagaimana desainer menempatkan konten di semua breakpoint
+- Data label
+	-> Secara umum, label adalah inti dari desain UX yang sangat baik, tidak terkecuali desain dashboard.
+- Bisa dicustom 
+	-> Personalisasi dashboard bisa digunakan jika ada request "Bikin dashboard sendiri aja"
+- Toggling variables
+	-> Aktifkan dan menonaktifkan variabel tertentu dalam satu diagram
