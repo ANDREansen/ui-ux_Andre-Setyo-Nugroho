@@ -1,0 +1,249 @@
+Figma Collaboration 
+Outline : siapa saja yang akan berkolaborasi di figma, versionong di figma, feature kolaborasi di figma
+
+- Siapa saja yang berkolaborasi di figma
+1) Project Manager 
+	-> Melihat current progress
+	-> Memastikan kembali flow sesuai
+2) UI/UX Designer 
+	-> Mendesain sebuah interface
+3) Enginer 
+	-> Melihat desain untuk didevelop
+	-> Mendownload asset yang diperlukan 
+	-> Melihat flow
+	-> Diskusi API kontak
+4) Illustrator
+	-> Melihat design placement
+	-> Melihat desain placement untuk illustrasi
+5) Copywriter
+	-> Meligar desain placement untuk copy/tulisan yang diperlukan
+
+- Versioning on figma (kegunaannya buat apa)
+1) Dokumentasi
+Sebagai dokumentasi setiap perubahan dari sebuah interface
+2) Mengetahui perubahan yang terjadi 
+
+- Feature kolaborasi di figma
+1) Comment
+Kita bisa meninggalkan comment pada sebuah elemnt desain
+2) Live Chat
+Kita bisa melakukan chatting secara live denagn menekan tombol "/" di keyboard
+3) Observasi
+Ketika berkolaborasi secara langsung kita bisa melihat dan mengikuti pergerakan mouse orang lain secara realtime dengan melakukan klik pada icon orang tersebut
+4) Oage Management 
+Memisahkan halaman dimana kirta sebagai desainer melakukan explorasi dan hasil final sebuah desain
+- Bagaimana kita menata condition state pada sebuah halaman
+5) Naming style
+Kita harus berdiskusi dengan team enginer untuk menyepakati format bagaimana kita manamai element pada desain
+
+# FIgmaJam
+- Membuat figma jam
+1) Buka figma app 2) click tombol "+" 3) Pilih Jam File
+
+- Setting dan memilih beberapa aksi dari menu
+- Tool untuk berkolaborasi
+- Akses tool kolaborasi lainnya
+
+- Figma audio chat 
+Kita juga bisa menggunakan figma audio chat untuk berkomunikasi secara langsung
+
+- Figma Jam Template
+Figma juga menyediakan berbagai macam template brainstrom untuk berbagai keperluan
+
+# UX Research
+Outline : Why research, Evaluative research
+
++ Why Research
+Jika tidak ada reserach mengenai kebutuhsan user atau behavior dll maka akan menghasilkan Fail Product
+
++ Apa itu UX?
+User Experience adalah bagaimana user ini menggunakan aplikasi yang kuta buat lebih ke pengalaman dalam menggunakan aplikasi 
+(The user experience is hoe a user interact with and experiences a product, system or service)
+
++ User Journey
+- Dont create customer journey maps without personas
+- Dont make maps too high-level
+- Dont make maps too low-level
+- Focus on procesess
+- Spice up your journey map with visuals
+- Add actionable items
+- Add responsible ones for each stage
+
++ Stakeholder Circle
+- UX is not working alone, tetapi kita juga bekerja dengan deprmtnet lain
+- UX : Desainer , Researcher, Tech writers
+- Enginer : Enginer, qa people ,tech supply
+- Bussiness: Upper management, product manager, marketing people, slaesman
+
++ When to do research 
+- Idea Generation -> Screening (menentukan ROI)-> Idea Evaluation (Konsep testing, Roi verification) -> Development(R&D, Build model,Tetsing in market, dll)
+ -> Product Evaluation (Finalize product , finalize marketing plan, final roi estimate, start marketing plan, start new production,)
+
+Exploratory(to discover opportunities for new initiative), Generative (to understand more between seeral concept), Evaluative (to discover are improvement)
+
++ Step by step : create goals
+1) Understand the background :
+	a) Ask your stakeholder what they want to learn
+	b) Collect and study the available data first 
+2) Write down the goal
+	a) try to be concise and narrow down the goals to a specific aspect of user behavior /attitude
++ Step by step : define participant criteria
+Prefer extreme users     
+
++ Step by step : define number of participants needed
+The best result come from testing no more than 5 users and running as many small test as you can afford
+
++ Step by step : Develop research guideline 
+1) Opening : Ice breaking, give more context
+	a) Getting to know the participant 
+	b) General behavior questions
+	c) Usabili testing topic relates questions
+
+2) Usabilit tetsing task
+3) Closing : Rating and feedback
+	a) Ask the participant to rate the experience
+	b) Likes, Disklikes & Feedback to improve the experience
+	c) Any other general feedback (if eny)
+
++Step by step : write usability tetsing task
+1) Start from the most generic thing that the participant would do an the first page before moving on to the specific task
+	a) Task 1 (on homepgae) could you show me how you book a train on page
+2) Task should be written specifically so all the participants would have the same goal
+	a) Task 2 : ( once the participant land on the booking pagasE) from page assume you want to buy a train ticket with following details:
+
++ Step by step : dos and dont during the testing
+1) Tell the participants that youre testing your desian, not them, this is not an exam
+2) Observer and take notes on things that participant do on your desain, A screen recordes would help you to recall the journey later
+3) Allow the participant to explore first.answer the questions after the session finished
+4) Encourage the participant to speak out loud
+5) Ask the follow up questin after the pasticip[ant finished the tas
+6) Do not ask leading question or express the non-neutral statement
+
++ Evaluatin Research
+Evaluatin research, also known as evaluation research or program evaluation, is a type of research you can use to evaluate a product or concept and collect data that 
+helps improves your solution.
+
++ Choose ux research method
+- Shorter feedback loops of interviews, cars sorts or usability test
+- Very early in product development -> field studies
+- Mockup or a prototype -> Usabilty testing
+- Scondary datam such as research that's already been done in your organization or desk research
+- Conversation with your users -> user interviews
+- Study of group of people -> focus groups
+- Get a peek into how users interact with our product in a real world scenarion-> diary studies
+
++ ideation workshop
+After sharing the insight , we also run the ideation workshop to discuss the user experience (especially the pain points) and brainstrom on how to
+improve the experience
+
+
+# A/B Teting guide
+Outline : Apa itu a/b testing? why should you cinsider a/b test? what can you a/b test? different type a/b test? A/B Test statictical approach? How to perform an a/b test? A/B testing
+example , conclusion
+
+
+# Explanation
+A/B Testing, also known as split testing. refers to a randomized experimentation process wherein two or more versions of variable (web page, page element, etc.)
+
+# Why u should consider A/B Tetsing?
+- Solve visitor pain points
+- Get better ROI from existing traffic
+- Reduce bounce rate
+- Redesign website to increase future business gains
+- Achive statictically signifigant improvements
+- Make low-risk modifications
+
+# What can you A/B Test? apa yang bisa kita lakukan untuk ab testing
+1) Copy
+- Headline and subheadlines
+- Body
+- Subject Lines
+2) Navigation
+- Match visitor expectations
+- Make your website's navigation predictable
+- Creating a fluid, easy-to-navigatie website
+3) Design and layout
+- Proviode clear information
+- Highlight customer reviews
+- Write simple content
+- Create a sense of urgency
+4) Form
+5) Content depth
+6) CTA (Call-to-Action)
+7) Social proof
+
+# Different types of A/B test
+1) Split URL Testing
+2) Multipage testing
+3) Advantages of split URL testing
+4) Multivarate Testing (MVT)
+
+# A/B Tetsing statictical approach
+1) Frequentist Approach
+- Frequentist statistic follow the probability as log term frequency definition of probability
+- In this approach, you only use data dorm your current experiment. The frequentist solustion is to cinduct test and draw conclusion.
+- Give an estimated mean (and standard deviation) of sample where A beats B but completely ignores the cases when B beats A
+- Requires the test to run for a set period to get correct data from it but cant figure out how close or far A and B actually are. it fails 
+to tell you the probability of a beating b
+2) Bayesian Approch
+- Byesian statistics follow the nations of probability as degree of belief logical probability
+- In this approach, you use your prior knowledge from the previous experiment and try to incorporate that information into your current data. The bayesian solution is 
+to use existing data to draw conclusion
+- It takes into account the possibility of A beating B and also calculates the range of the improvement you can expect
+- Gives you more control over testing. You can now plan batter, have a more accurate reasin to end test, and get into the nitty-gritty of how close or fro apart A
+and B are.
+
+# How to perform can A/B test?
+- Steps
+Research -> Observe and formulate hyphotesis -> Create variations -> Run Test -> Analysys results and deploy changes
+
+# A/B Tetsing expamle
+- One Column
+- Giving a gift
+- Social proof
+- Repetition 
+- Sistint clickable/Seleceted style
+- Recommendation
+
+# Conclusion
+Follow each step involved diligently and be wary of all major and minor mistakes that you can commit if you do not give data the importance it deserve. A/B testing is
+invaluable when it comes to improving your website conversion rates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
