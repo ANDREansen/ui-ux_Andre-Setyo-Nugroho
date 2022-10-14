@@ -1,0 +1,101 @@
+Offline usability testing
+Outline : Apa itu UT, Kapan kita melakukanya, kenapa UT penting, team ut siapa aja, lokasi ut, membuat skenario usability testing, melihat bagaimana ut berlangsung
+
+# Apa itu Usability Tetsing?
+- Sebuah sesi dimana researcher (fasilitator) memberikan sebuah skenario kepada user untuk menyelesaikan satu atau lebih tugas terhadap suatu design tampilan atau
+prototype.
+
+# Kapan kita melakukan Usability testing
+- Bisa dilakukan kapanpun
+- Fase : 1) Fase awal (Identifikasi) 2) Fase tengah (Developing/MVP Product) 3) Fase akhir ( sebelum release ke market)
+
+# Kenapa harus usability testing
+- Menemukan masalah
+- Menemukan kesempatan (terkadang ada step yang kita miss, dan user mengetahui step yang lebih simple)
+- Mempelajari kebiasaan user
+
+# Usability member team
+- Facilitator (Guide the participant) mengarahkan user untuk mengikuti skenario
+- Note taker ( write all note from usability) mencatat skenario
+- Participant (realistic user basec on target)
+
+# Lokasi Usability testing
+- Geurilla (Dimana saja)
+- Online (moderated/unmoderated)
+- Setup environment (Kantor atau lingkungan yang telah dipilih)
+
+1) Guerilla Usability testing (bisa dimana aja, kapans aja, dan partisipannya bisa siapa aja)
+2) Setup Environtment Usability Testing (setup dikantor atau ruangan tertentu untuk tenang untuk melakukan usability testing)
+3) Online usability testing (bisa menggunakan gmeet, zoom dan platform lain yang bisa melihat wajahnya)
+
+# Mempersiapkan usability testing
+- Persiapan
+- Usability testing
+- Mengelola insight usability testing
+
+- Persiapan :
+1) Menentukan target user 2) memilih metric (kita menentukan parameter apa yang akan di ukur, e-commerce ,user bisa memggunakan payment a) 3) Membuat skenario 
+4) Menyiapkan prototype 5) Menentukan team 6) Menyiapkan Team
+- Usability Testing
+1) Metode thinking out loud (menyampaikan apa yang dipikirkan user setelah melihat halaman aplikasi) 2) 3 level of why(kita harus menanyakan 3 level of why untuk 
+mengetyahui kenapa melakukan hal tersebut, contoh kenapa mengeklik keranjang, untuk mendapatkan intisari kenapa user melakukan action tersebut) 3) Jangan mengarahkan user 4) Dengarkan dan perhatikan 
+dengan seksama
+- Mengelola insight usability testing
+1) Tulis semua insight yang didapat
+2) Cari pola
+3) Tentukan skala prioritas
+
+# Contoh skenario usability testing
+Usability Testing
+Goal: 
+User dapat membandongkan perbedaan dalam mencari informasi material dan ukuran lebih mudah ketika berada dihalaman produk detail
+
+Tools :
+- Pastikan badan dan pikiran dalam kondisi fit
+- Alat rekaman (handphone, kamera)
+- Laptop
+- Timer
+- Notes, Pen
+- Feels the emotion seperti kenapa dia klik tombol back, liat raut muka dan emosinya (fasilitator only)
+- Charger, roll cable, power bank, etc
+- Pastikan semyua barang terisi penuh baterainya
+
+User Criterias
+- User sering belanjan online di ABC. Kali ini kita memilih anak buyer karena hanya berupa perubahan kecil yang terdapat dihalaman detail produk
+
+Intro :
+Selamat (pagi/siang/sore) ibu perkenalkan nama saya krisna dari tim riset ABC. Terima kasih ibu sudah mau menyempatkan waktunya untuk bertemu dengan kami
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
