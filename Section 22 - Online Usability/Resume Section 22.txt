@@ -1,0 +1,97 @@
+ONLINE USABILITY TESTING
+Outline : Kelebihan , persiapan online usability testing, tool yang digunakan, menganalisa hasil online usability testing, tips online usability testing
+
+# Kelebihan online usability testing
+1) Dapat menemukan user dengan mudah
+2) lebih cepat dan lebih murah
+3) jangkauan user yang sangat luas
+4) efisien
+
+# Mempersiapkan usability testing
+1) Persiapan
+2) Usability testing
+3) Mengelola insight usability testing
+
+# Tool yang digunakan
+- Figma
+- Maze
+
+# Persiapan
+1) membuat clickable prototype di figma
+2) setup blocl skenario di maze
+3) jalankan dan share link online usability kepada user
+
+# Jenis block skenario
+- Mission (membuat usability task)
+- Yes/no
+- Opoinion scale
+- Multiple choice
+- open question
+- Context screen
+- Tree Test
+- Card sort
+- 5-Second test (5 detik kita tampilkan desain kita)
+- Legal screen
+
+# Tips membuat mission usability di maze
+1) Mulai dari tujuan yang simple
+2) Berikan 1 tugas dalam sekali waktu
+3) Tugas yang diberikan pastikan realistis dan p menyerupai kehidupan sebenarnya
+
+Contoh : kamu ingin memulai memantau keuangan bisnis anda. Lalu anda menemukan halaman website ini
+4) Menambahkan pertanyaan di tengah tengah skenario 
+- Dengan memakai multiple choce, opinion scales, yes/no, Open question
+5) Membuat alternative untuk flow
+
+# Discovery usability testing
+- Discovery usability testing adalah sebuah metode untuk menggali insight dari user terhadap 1 tampilan sebuah website atau webiste
+1) Berikan konteks yang tepat
+2) Rule of 5 second impression -> memberikan 5 detik tampilan dan kita tanya apa impresion pertama setelah melihatnya
+3) Berikan pertanyaan, menurut anda seberapa jelas tampilan info tadi
+
+# General Tips 
+1) Buat misi sesimple mungkin
+2) Ikuti user flow yang sudah dirancang
+3) Pastikan prototype anda berjalan dengan lancar
+4) Hindari bahasa teknis (error state dll)
+5) Tentukan parameter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
